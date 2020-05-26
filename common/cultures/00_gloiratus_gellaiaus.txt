@@ -1,0 +1,36 @@
+﻿gellaiaus_group = {
+	
+	color = rgb { 255 0 0 }
+
+	male_names = {
+	ëtënn dtëzanpomtese  sotennden buntan sëbandbon ürunnbartüo um  runntuzandpennprüm düsron oorponnszü punun ebannpe e ëëbë ptumssada ëpzunnbo pzomrü ubannadonnro ëseo ë eum üënn uunn a ëdponptümrse ompenen tzüzdünn ë onntüm zenrson obëm dann ann urëmunsene aüno oe edbëbzëndonnzebem ü süpo orantban üüü aapbamsümpdenn eünnon eëm rë etumsonten e upemde adzantbenn urrün üta po abambamtë osënnpdennbennbom bubzassenntü to ürtë dbün usdunnzënn upazdemzo opun o etëmpëomon üëm übpomse badtu obandbëtbün de zunndbadadodo u subtu osrupënnümzrün zumrën eo ëpdosdo ënpëddazonn ebatu zzunnse a obson ëszurëpesün opapeno ësta dzasüdüdü ëtunpusüün ëpsatëm epzunsan ubbenn orë üre unn üdonnünn pen bamtünn paatü rannem ëünnszü o bum rünnpü osü somton stëpüm dënun bum zdübü srampun te ëpuso aë zsüdü udëmzë zpe tëdëre pbëputpübü ddënsë onn pësum dazumbta etdën ann ütem pampënn zepü pumbasrënüem dëmpaamünpzonne uzënnpduün erënn ëumronn bbümbtonn ëpünn sënbbum aabum updëm adupapzë ünse ëo etzebenzon usü tarannome udëoe ëdaamtën orapunn bu ounënnse bzunndu aboson
+		Zan Totn Denr Obennan Ontune Rum Sertem Tadm Urud Unr Ursesep Ern Saraden Uzn Bod Borte Dasdunn Bonpr Sran Ozam
+		Pepu srurram Danduen romtunre tbunnzezoronn amptan zenn Eazbem Rzamu Senzsen Rpadazonnsru Tsunsomton Udtamzoe
+		Penntu Ruunnsom Tsampu Pedentruztu Edorun Ubenn Turem Bterenntonn Enzen
+O-ëtënn Ok-u O-dtëzanpomtese O- Ok-sotennden O-buntan Ok-sëbandbon Ok-ürunnbartüo O-um Ok- O-runntuzandpennprüm O-düsron Ok-oorponnszü Ok-punun Ok-ebannpe Ok-e Ok-ëëbë O-ptumssada Ok-ëpzunnbo O-pzomrü Ok-ubannadonnro Ok-ëseo Ok-ë Ok-eum Ok-üënn Ok-uunn O-a Ok-ëdponptümrse Ok-ompenen Ok-tzüzdünn O-ë Ok-onntüm O-zenrson Ok-obëm Ok-dann O-ann O-urëmunsene O-aüno O-oe O-edbëbzëndonnzebem Ok-ü Ok-süpo Ok-orantban O-üüü Ok-aapbamsümpdenn O-eünnon Ok-eëm O-rë Ok-etumsonten O-e O-upemde Ok-adzantbenn Ok-urrün Ok-üta O-po O-abambamtë O-osënnpdennbennbom Ok-bubzassenntü O-to O-ürtë O-dbün Ok-usdunnzënn O-upazdemzo Ok-opun Ok-o Ok-etëmpëomon O-üëm Ok-übpomse Ok-badtu Ok-obandbëtbün Ok-de Ok-zunndbadadodo O-u Ok-subtu Ok-osrupënnümzrün Ok-zumrën O-eo O-ëpdosdo Ok-ënpëddazonn O-ebatu O-zzunnse Ok-a O-obson O-ëszurëpesün O-opapeno Ok-ësta Ok-dzasüdüdü O-ëtunpusüün O-ëpsatëm Ok-epzunsan O-ubbenn O-orë Ok-üre O-unn O-üdonnünn O-pen Ok-bamtünn O-paatü O-rannem O-ëünnszü O-o Ok-bum O-rünnpü O-osü Ok-somton Ok-stëpüm Ok-dënun O-bum Ok-zdübü O-srampun O-te Ok-ëpuso O-aë O-zsüdü O-udëmzë Ok-zpe O-tëdëre Ok-pbëputpübü Ok-ddënsë Ok-onn Ok-pësum Ok-dazumbta O-etdën Ok-ann O-ütem O-pampënn Ok-zepü O-pumbasrënüem Ok-dëmpaamünpzonne Ok-uzënnpduün O-erënn O-ëumronn O-bbümbtonn O-ëpünn O-sënbbum O-aabum O-updëm O-adupapzë Ok-ünse Ok-ëo Ok-etzebenzon O-usü O-tarannome Ok-udëoe Ok-ëdaamtën O-orapunn Ok-bu Ok-ounënnse O-bzunndu O-aboson		
+	}
+	female_names = {
+rë anpu ztëmpapo übzenbre ü tannzunbbëm  bbamubtossü üsënntëuorodenn bam üënn amzrën ërum übe sastë rünn aode dzaneponn  osbennrtünn odpatünppom esese rtorü osbem orsu ppënnbamürem e a urüm ësbuëm ou ëzutum ënnbëm arbë ro surtën ëbunnzünn tennen dëmbdën ztanntëmttu azbunnpü të upënndën odümen apazado tsü sam o aboten urannumtdëtdopeonn odëum pësën ëssabün oorzü embzem semrzonn rdë omtsompto dru uonn brë rëpuproze bümpon ëtdë adpë üppëbetemzom usadumze zëpërsünzsünn reponn ü epe ë dün eë uptu ëbtansbupa oamdampënn üaüm pëa tpe üansannun uzotünrdü pbunnramünn ëbuprënn oba sumonnppe edbë apamsann übpaën saran sü üpemü ardëdrano trëzundzae ëudë ratuspobbem u zünpo ëzbën ütu ustürtom rannurempre ë punpënn oe unnpannrru upsun anbrë adë übrumedoppo udu aenn zu edü ësënundezü ozusurëtso udrusenn utsuerennzü opëümbsünrü züzbü otümdü püzzo bannëppünndümtünn ounn rënrtu üenn tsun draünnün sum zünn oaonn usom be ëzu apemboppünn zannpunn zua trau zansu odëdumrem üzü bumsrennzenn sëëü obbumropsüm zëumdü dba ëpsënttënnün aënnsü damdsu ërurde ënnü pdëzërsunreero
+Ap-u Ap-rë Ap-anpu Ap-ztëmpapo Ap-übzenbre Ap-ü A-tannzunbbëm Ap- Ap-bbamubtossü Ap-üsënntëuorodenn Ap-bam A-üënn Ap-amzrën Ap-ërum Ap-übe A-sastë Ap-a A-e Ap-rünn Ap-aode A-dzaneponn A- A-osbennrtünn Ap-odpatünppom Ap-esese A-rtorü A-osbem A-orsu A-ppënnbamürem Ap-e A-a Ap-urüm A-ësbuëm Ap-ou A-ëzutum Ap-ënnbëm A-arbë A-ro A-surtën A-ëbunnzünn A-tennen Ap-dëmbdën A-ztanntëmttu Ap-azbunnpü Ap-të Ap-upënndën Ap-odümen Ap-apazado Ap-tsü Ap-sam A-o A-aboten A-urannumtdëtdopeonn A-odëum Ap-pësën A-ëssabün A-oorzü A-embzem A-semrzonn Ap-rdë Ap-omtsompto A-dru A-uonn Ap-brë Ap-rëpuproze A-bümpon A-ëtdë A-adpë Ap-üppëbetemzom A-usadumze A-zëpërsünzsünn Ap-reponn A-ü A-epe Ap-ë A-dün Ap-eë A-uptu Ap-ëbtansbupa Ap-oamdampënn A-üaüm Ap-pëa A-tpe Ap-üansannun Ap-uzotünrdü A-pbunnramünn A-ëbuprënn Ap-oba A-sumonnppe Ap-edbë A-apamsann A-übpaën Ap-saran Ap-sü A-üpemü A-ardëdrano A-trëzundzae Ap-ëudë A-ratuspobbem A-u A-zünpo A-ëzbën A-ütu Ap-ustürtom Ap-rannurempre A-ë Ap-punpënn A-oe Ap-unnpannrru A-upsun Ap-anbrë A-adë A-übrumedoppo Ap-udu Ap-aenn A-zu Ap-edü Ap-ësënundezü Ap-ozusurëtso Ap-udrusenn A-utsuerennzü Ap-opëümbsünrü A-züzbü A-otümdü A-püzzo A-bannëppünndümtünn A-ounn A-rënrtu A-üenn A-tsun Ap-draünnün Ap-sum A-zünn A-oaonn A-usom A-be Ap-ëzu A-apemboppünn A-zannpunn A-zua Ap-trau Ap-zansu A-odëdumrem A-üzü Ap-bumsrennzenn A-sëëü A-obbumropsüm Ap-o A-zëumdü Ap-dba Ap-ëpsënttënnün A-aënnsü Ap-damdsu Ap-ërurde A-ënnü A-pdëzërsunreero	
+		Zan Totn Poet Denr Ontune Nna Rum Sertem Tadm Ara Urud Unr Ran Ern Saraden Uzn Bod Borte Dasdunn Bonpr Sran 
+		Benben tamran bunbte punnrazen Penn tersonrbu Tron ttunnzde dunnpden sussu zemen Zrann bpanntsa ppesape Sobun
+		rsannonsro Dapau
+	}
+	family = {
+		Zan Totn Poet Denr Obennan Ontune Nna Rum Sertem Tadm Ara Urud Unr Ran Ursesep Ern Saraden Uzn Bod Borte Dasdunn Bonpr Sran Ozam
+		Emumtzenze Sdemssann Todun Tum sunnonn Danduen pumu tbunnzezoronn amptan bzerennstempde
+	}
+	
+	culture = {
+		eagelian = {}
+		weagelian  = {}
+		ytalian = {}
+	}
+	
+	barbarian_names = { GELLAIAUS EAGELIA WEAGELIA YTALIA }
+	
+	graphical_culture = roman_gfx
+	ethnicities = {
+		10 = gellaian
+	}
+}

@@ -1,0 +1,5 @@
+graphical_culture = luxterreich_gfx
+color = rgb { 182 203 126 }
+
+ship_names = {
+} 

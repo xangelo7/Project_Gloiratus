@@ -1,0 +1,671 @@
+﻿1439={ #Errlyö
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1461={ #Skeadh
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+1475={ #Iilslaidh 
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1482={ #Einwa
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1490={ #Einske
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="the_old_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1500={ #Adholöggi 
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1504={ #Skeliedul
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1506={ #Oerrreid
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1509={ #Kösrfalcü 
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1510={ #Taskeo
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="grain"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1533={ #Lyödulgard
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1537={ #Otakvirfal
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1538={ #Eingard
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1541={ #Iilsadheindul
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1556={ #Lie
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1559={ #Reidomik
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1562={ #Ubbta
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1567={ #Cüiilsadh
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1572={ #Fallyödul
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1577={ #Ubb
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1580={ #Tacü
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="stone"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1584={ #Ggilie
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1585={ #Ullieeinmhüc
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1588={ #Talömik
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1594={ #Taerr
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1602={ #Lölyöggimik 
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="the_old_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1609={ #Ein
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1610={ #Mhücdulduldul
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1611={ #Adhkösrlaidh
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="the_old_pantheon"
+	trade_goods="grain"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1614={ #Iilsdul
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1617={ #Dötadh
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1621={ #Lyöfal
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1622={ #Cülaidhskekvir
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+1633={ #Döt
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1638={ #Liemiklie
+	terrain="plains"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+1639={ #Lieiilslyö
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="fish"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+1650={ #Skeske
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1651={ #Skekösrkösr
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="fallen_star_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+1661={ #Einkvirwakvir
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+1672={ #Dötlie
+	terrain="plains"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+1675={ #Skagreidlieubb
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="fallen_star_pantheon"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+}
+
+1681={ #Mhücta
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1686={ #Einadh
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	serfs={
+		amount=3
+	}
+}
+
+1709={ #Laidheinwa
+	terrain="forest"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1718={ #Waerr
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+1730={ #Reidta
+	terrain="mountain"
+	culture="errnorfallian_2"
+	religion="blood_tainted_pantheon"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1739={ #Lietawa
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="blood_tainted_pantheon"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1773={ #Erriilserrgard
+	terrain="forest"
+	culture="errnorfallian_1"
+	religion="fallen_star_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+1778={ #Ubbdulerr
+	terrain="hills"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="salt"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1801={ #Dulerrlie
+	terrain="hills"
+	culture="errnorfallian_2"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+

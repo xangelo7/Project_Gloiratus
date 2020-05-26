@@ -1,0 +1,80 @@
+deity_manager = {
+	deities_database = { ### KEYS 36-47 ###
+		36 = {
+			key = omen_deborah
+			deity = deity_deborah
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		37 = {
+			key = omen_caleb_joshua
+			deity = deity_caleb_joshua
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		38 = {
+			key = omen_samuel
+			deity = deity_samuel
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		39 = {
+			key = omen_abraham
+			deity = deity_abraham
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		#904 = {
+		#	key = omen_children_of_god
+		#	deity = deity_children_of_god
+		#}
+		40 = {
+			key = omen_david
+			deity = deity_david
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		41 = {
+			key = omen_solomon
+			deity = deity_solomon
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		42 = {
+			key = omen_moses
+			deity = deity_moses
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		43 = {
+			key = omen_joseph
+			deity = deity_joseph
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		44 = {
+			key = omen_esther
+			deity = deity_esther
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		45 = {
+			key = omen_daniel
+			deity = deity_daniel
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		46 = {
+			key = omen_ezekiel
+			deity = deity_ezekiel
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+		47 = {
+			key = omen_ezra
+			deity = deity_ezra
+			deify_ruler_permanent = yes
+			is_universal_deity = yes
+		}
+	}
+}

@@ -1,0 +1,909 @@
+﻿2508={ #Düi-nöthttüp
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=2
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2555={ #Dda-rammat
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2611={ #Ddu-pën
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="wine"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2627={ #Küi-nnunn
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="cattle"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=7
+	}
+	taristocracy={
+		amount=1
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2652={ #Küi-lüittëth
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2657={ #Düi-pölltürr
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="hemp"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2679={ #Dda-mutüllttö
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	serfs={
+		amount=16
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2702={ #Küi-lu
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="olive"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2706={ #Ddu-nüinöp
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="glass"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=13
+	}
+	taristocracy={
+		amount=3
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2710={ #Dda-rruöna
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2714={ #Ka-thüprü
+	terrain="forest"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="vegetables"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2758={ #Düi-rrëshütnnüil
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=6
+	}
+}
+
+2759={ #Düi-müipurrut
+	terrain="forest"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="wild_game"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=10
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2785={ #Ka-nüirrö
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="wine"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=9
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2786={ #Ddu-rrulënn
+	terrain="forest"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=7
+	}
+	taristocracy={
+		amount=1
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2803={ #Dda-tuttar
+	terrain="plains"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="woad"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2826={ #Ddu-ttë
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=5
+	}
+}
+
+2827={ #Ddu-ral
+	terrain="forest"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="vegetables"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2832={ #Küi-llüimüi
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="spices"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=14
+	}
+	taristocracy={
+		amount=1
+	}
+	tnoble={
+		amount=3
+	}
+}
+
+2833={ #Ka-pü
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=3
+	}
+}
+
+2839={ #Ka-llü
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=6
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2860={ #Düi-nnashunnmör
+	terrain="forest"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2865={ #Ddu-püipu
+	terrain="plains"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="fish"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=8
+	}
+}
+
+2875={ #Ka-shüirtush
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="olive"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2888={ #Ddu-rrö
+	terrain="plains"
+	culture="intermarenican_4"
+	religion="helluvian"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=6
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2902={ #Düi-ttömëthë
+	terrain="forest"
+	culture="intermarenican_1"
+	religion="helluvian"
+	trade_goods="hemp"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2908={ #D'-rrë
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2918={ #Küi-törat
+	terrain="plains"
+	culture="intermarenican_2"
+	religion="helluvian"
+	trade_goods="cattle"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2922={ #Dda-pau
+	terrain="plains"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="iron"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=10
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2933={ #Küi-thull
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2934={ #Küi-lötnnöth
+	terrain="plains"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+2940={ #D'-mönnött
+	terrain="plains"
+	culture="intermarenican_2"
+	religion="helluvian"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=6
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2980={ #Ddu-nëösh
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2981={ #Düi-nnüirrthu
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+2988={ #Küi-llëa
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=6
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3003={ #Küi-röshüi
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wine"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3015={ #Ddu-pëmarrrrü
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="olive"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3092={ #Küi-llëshöttttu
+	terrain="hills"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	serfs={
+		amount=7
+	}
+}
+
+3107={ #Ddu-lüirëthö
+	terrain="hills"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3132={ #Düi-shëtümnnurr
+	terrain="plains"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=4
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+3139={ #Düi-thëtha
+	terrain="hills"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="marble"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=7
+	}
+}
+
+3214={ #D'-llöllü
+	terrain="plains"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="vegetables"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	serfs={
+		amount=11
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3215={ #Küi-rrüië
+	terrain="hills"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="iron"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	serfs={
+		amount=9
+	}
+	taristocracy={
+		amount=1
+	}
+	tnoble={
+		amount=2
+	}
+}
+
+3267={ #Dda-në
+	terrain="forest"
+	culture="intermarenican_3"
+	religion="helluvian"
+	trade_goods="wood"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=6
+	}
+	taristocracy={
+		amount=1
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+5545={ #Dda-mëll 
+	terrain="plains"
+	culture="intermarenican_2"
+	religion="helluvian"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	serfs={
+		amount=5
+	}
+	tnoble={
+		amount=1
+	}
+}
+

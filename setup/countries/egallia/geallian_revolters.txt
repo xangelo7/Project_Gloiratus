@@ -1,0 +1,6 @@
+﻿graphical_culture = eagellia_gfx
+color = rgb { 43 78 132 }
+color2 = rgb { 50 165 90 }
+
+ship_names = {
+}

@@ -1,0 +1,36 @@
+﻿polarian_arame = {
+	
+	color = rgb { 216 30 5 }
+
+	male_names = {
+		Ággi Áigesárri Áilu Ámmot Ára Árrajuoksa Ásllat Èoavvá Ahkemiella Algebaeivi Baeivi Baeivvet Biejan Bijás Bilzi Dávgon Duttá Gáivvas
+		Gáktu Henes Járre Jeansa Juvven Lágon Lávrrohas Leammá Mellet Mihka Mohkku Mokci Náhkol Náinnas Njulgu Oaván Orddot Rástos Riibma Ruigi
+		Sárra Speaidna Viggu
+	}
+	female_names = {
+		Áidná Álgen Állet Èuvje Biellá Biergá Buohttá Duojá Gealá Gierá Giste Juoksáhkká Leandu Máidna Násti Naná Njáves Oajá Sáráhkká Sealggá 
+		Seará Soabá Sojá Suoinná Suonjar Uksáhkká
+	}
+	family = {
+		Ubmeje.Hansson.Magga.Guoládat
+		Nuoráne.Gájka.Kaise.Saiva
+		Keite
+	}
+	
+	culture = {
+		polarian_arame_1 = {}
+		polarian_arame_2 = {}
+		polarian_arame_3 = {}	
+		polarian_arame_4 = {}	
+		polarian_arame_5 = {}		
+		polarian_arame_6 = {}		
+		polarian_arame_7 = {}		
+	}
+	
+	barbarian_names = { JAN MAYEN PALLAVI  BERGUM }
+	
+	graphical_culture = norrfalie_gfx
+	ethnicities = {
+		10 = germanic
+	}
+}

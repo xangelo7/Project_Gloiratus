@@ -1,0 +1,63 @@
+﻿high_elves = {
+	color = rgb { 40 40 225 }
+	male_names = {
+   Deie Hilteseli Resdeeneli Cyu Retha Nesvaeneli Néssréreènèli Nasréènèli Nésuslè Ereèli Sàrerethi Desivoji 
+   Fhaernaaelènèli Ousivoju Raucybria Icyèli Cyèli Malsonèli Néshilèli Vaui Rethnalè Athvaui Hildesil Nàlmala 
+   Fhaermald'éi Nésalù-èn Sonusi Asadesèn Vafhaerrethèn Hiloussonil Cyui Sonreiè Nàliathil Metésil Shàll'il 
+   Rilmeiè Asaresreènèli Resiil D'ésàeivoju Asail Soniè Nési Soneelè Laousiè Usreèli Hilteùd-i Descyèli Raui 
+   Resnàllè D'éd'éèn Sréousteùd-ui Nalanésresi Athlè Néssàèn Hild'éi Sréènèli Rethivojènèli Fhaerrilui Lahilui 
+   Asatésu Malathreiè Asaènèli Raufhaermeui Sonmeèn Briaela Athil Asaiil Resnésui D'éèli Eui Hilvài Shàll'naènèli 
+   Cybrii Alù-èli Rethèn Vaènèli Athèli Vausvaèn Iil Teùd-a D'érethui Vail Shàll'naalù-il Néssoniè Rethrauraumalil 
+   Ivojalù-èli Destéslè Nésu Usil Ncaa Aelvalè Malènèli Alù-u Atha Rauncaèli Vau Iteùd-ncaènèli Naui Lasonèn Sàrauvaèli 
+   Resasau Elè Briivojfhaeril Cymalui Ivoji Ivojiè Brisàathiè Ousil Sàa Sréousèli Rauaelènèli Erethlè Fhaersàu Shàll'reiè 
+   Ii Vàsoni Fhaerlè Ivoja Rea Nàllarea Rilrethèn Rilalù-lè Nàlrilènèli Resasai Cysonèli Alù-sài Emeiè Aelnésu Téshilvàusui 
+   Shàll'sréiè Fhaernéscylè Tésnàlèli D'éa Nàlsonivojui Briasaousil Ousnésèn Naressonèn Usvàu Nàlshàll'u Vateùd-il Sonvalè 
+   Rethmala Meteùd-sàui Rebrilau Hilnàlèli Cydesa Fhaeru Shàll'athu Hilalù-vau Asacymalènèli Incahilil Brilè Malhilvàil 
+   Nacyèli Asameènèli Laènèli Larerauèli Ncanàluslè Ousu Malteùd-il Cyasaa Teùd-usènèli Sàusmeèli Ishàll'ui Rauresènèli 
+   D'éncaivoji Usbribriu Malrei Sonèli Vàrilènèli Rethousiè Descyènèli Ivojivojenaèn Reeshàll'u Rilrilmalresil Ivojbrimalènèli 
+   Shàll'nàlènèli Desui Mesàrilèn Ousfhaera Usa Revàaelèn Asaièn Tésusi D'érilteùd-lè Aeli Rethd'ésréu Rilreu Brii Cyhilaeli 
+   Shàll'sàil Naii Brihilui Teùd-athtésui Vàèn Uscyèn
+	}
+	female_names = {
+   Vàáann-lac Rethmedeso-lac Vad'éànnèli-lac Sonousrilel-lac Ivojresrauèe-lac Ivojlá-lac 
+   Aelcyo-lac Vàsréalù-ol-lac Desbrinateùd-áann-lac Vàioa-lac Rethaeloi-lac Athsréel-lac Hilfhaerèe-lac 
+   Valá-lac Vael-lac Aele-lac Icyo-lac Teùd-shàll'sonel-lac Sàèe-lac Memalathèluí-lac Brialù-lá-lac 
+   Efhaerèluí-lac Laivojreslá-lac Ilasréànnèli-lac Alù-esrélá-lac Alù-tésrauèluí-lac Shàll'raue-lac 
+   Nàlousnaèluí-lac Briusànnèli-lac Asaioa-lac Sréd'élá-lac Cyol-lac Eànnèli-lac Shàll'eèluí-lac Tésvaresel-lac 
+   Asashàll'o-lac Meeoi-lac Merecyhillá-lac Ivojsréèe-lac Evauslá-lac Brialù-ioa-lac Deshilel-lac Tésathvàèluí-lac 
+   Rethmallá-lac Rauncaol-lac Rethioa-lac Ousteùd-ncaèluí-lac Evàlae-lac Lavàáann-lac Ièe-lac Cyioa-lac Raudeshilèluí-lac 
+   D'éousioa-lac Athànnèli-lac Téssonoi-lac Cyvaol-lac D'éioa-lac Reol-lac Teùd-èe-lac Shàll'rauol-lac Ivojteùd-briol-lac 
+   Fhaervàànnèli-lac Eousànnèli-lac Tésfhaerel-lac Cycyol-lac Asae-lac Meousraumalèe-lac Vasréo-lac Alù-ivojo-lac Shàll'rauoi-lac 
+   Ladesnao-lac Lael-lac Cyvàèluí-lac Tésousèe-lac Fhaero-lac Rethoi-lac Athol-lac Fhaerousèe-lac Meel-lac Rethd'éèe-lac Asaol-lac 
+   Desáann-lac Sréncanao-lac Briànnèli-lac Sàtéssàel-lac Resèluí-lac Laresèluí-lac Nésncaànnèli-lac Desncae-lac Rethd'émeol-lac 
+   Lacyol-lac Tésrilo-lac D'énésalù-el-lac Nésol-lac Resteùd-oi-lac Srébrisàioa-lac Alù-e-lac Teùd-malànnèli-lac Ousiáann-lac
+   And feminine ancestor: Usu-ac Fhaerlè-ac Fhaeresàu-ac Rethalù-ea-ac Laa-ac Malresiè-ac Teùd-eui-ac Varethil-ac Sàalù-ousu-ac 
+   Sréd'écyi-ac Rethil-ac Aela-ac Useèn-ac Athvau-ac Teùd-nàli-ac Nésiiè-ac Brivashàll'èn-ac Malènèli-ac Shàll'ii-ac Asail-ac 
+   Nésmalèli-ac Rethfhaersréui-ac Aelsonèn-ac Malèli-ac Téseènèli-ac Rillail-ac Nàlil-ac Rethsoncyu-ac Rili-ac Fhaertésu-ac
+   Cymalshàll'il-ac Melè-ac Fhaermedesa-ac Brii-ac Sona-ac D'éui-ac Fhaera-ac Enésèn-ac Tésènèli-ac Asarehilui-ac Irauiè-ac
+   Malncalè-ac Ousncaa-ac Sàhila-ac Rauui-ac Shàll'athmaliè-ac Reteùd-èli-ac Rilsàil-ac Aelil-ac Sonaelu-ac Resd'éu-ac Shàll'varessonèn-ac 
+   Mei-ac Sréu-ac Malvàèli-ac D'éèli-ac Vàsréu-ac Laièli-ac Nàld'éu-ac Vaèn-ac Resshàll'ui-ac Ivojalù-èn-ac Rilbrièn-ac Sàu-ac Cyasaasaèli-ac 
+   Fhaeri-ac Sàmeeèn-ac Hillail-ac Fhaerui-ac Tésalù-èn-ac Vahilathèn-ac Hilui-ac Sréathnésèli-ac Teùd-lè-ac Merauiè-ac D'ébrii-ac Fhaervanésènèli-ac 
+   Mallè-ac Vàui-ac Shàll'èn-ac Malfhaera-ac Vàoussrénésui-ac Ivojiè-ac Nàlnaènèli-ac Fhaereènèli-ac Nésiè-ac Ivojsonèn-ac Hilfhaeru-ac Eu-ac Briiè-ac 
+   Ivojui-ac Inàlathui-ac Nàleènèli-ac Rescyncaènèli-ac Sréènèli-ac Ncaathènèli-ac Tési-ac Brinau-ac Shàll'ui-ac
+	}
+	family = {
+Vàáann-lac Rethmedeso-lac Vad'éànnèli-lac Sonousrilel-lac Ivojresrauèe-lac Ivojlá-lac Aelcyo-lac Vàsréalù-ol-lac Desbrinateùd-áann-lac Vàioa-lac Rethaeloi-lac Athsréel-lac Hilfhaerèe-lac Valá-lac Vael-lac Aele-lac Icyo-lac Teùd-shàll'sonel-lac Sàèe-lac Memalathèluí-lac Brialù-lá-lac Efhaerèluí-lac Laivojreslá-lac Ilasréànnèli-lac Alù-esrélá-lac Alù-tésrauèluí-lac Shàll'raue-lac Nàlousnaèluí-lac Briusànnèli-lac Asaioa-lac Sréd'élá-lac Cyol-lac Eànnèli-lac Shàll'eèluí-lac Tésvaresel-lac Asashàll'o-lac Meeoi-lac Merecyhillá-lac Ivojsréèe-lac Evauslá-lac Brialù-ioa-lac Deshilel-lac Tésathvàèluí-lac Rethmallá-lac Rauncaol-lac Rethioa-lac Ousteùd-ncaèluí-lac Evàlae-lac Lavàáann-lac Ièe-lac Cyioa-lac Raudeshilèluí-lac D'éousioa-lac Athànnèli-lac Téssonoi-lac Cyvaol-lac D'éioa-lac Reol-lac Teùd-èe-lac Shàll'rauol-lac Ivojteùd-briol-lac Fhaervàànnèli-lac Eousànnèli-lac Tésfhaerel-lac Cycyol-lac Asae-lac Meousraumalèe-lac Vasréo-lac Alù-ivojo-lac Shàll'rauoi-lac Ladesnao-lac Lael-lac Cyvàèluí-lac Tésousèe-lac Fhaero-lac Rethoi-lac Athol-lac Fhaerousèe-lac Meel-lac Rethd'éèe-lac Asaol-lac Desáann-lac Sréncanao-lac Briànnèli-lac Sàtéssàel-lac Resèluí-lac Laresèluí-lac Nésncaànnèli-lac Desncae-lac Rethd'émeol-lac Lacyol-lac Tésrilo-lac D'énésalù-el-lac Nésol-lac Resteùd-oi-lac Srébrisàioa-lac Alù-e-lac Teùd-malànnèli-lac Ousiáann-lac
+And feminine ancestor: Usu-ac Fhaerlè-ac Fhaeresàu-ac Rethalù-ea-ac Laa-ac Malresiè-ac Teùd-eui-ac Varethil-ac Sàalù-ousu-ac Sréd'écyi-ac Rethil-ac Aela-ac Useèn-ac Athvau-ac Teùd-nàli-ac Nésiiè-ac Brivashàll'èn-ac Malènèli-ac Shàll'ii-ac Asail-ac Nésmalèli-ac Rethfhaersréui-ac Aelsonèn-ac Malèli-ac Téseènèli-ac Rillail-ac Nàlil-ac Rethsoncyu-ac Rili-ac Fhaertésu-ac Cymalshàll'il-ac Melè-ac Fhaermedesa-ac Brii-ac Sona-ac D'éui-ac Fhaera-ac Enésèn-ac Tésènèli-ac Asarehilui-ac Irauiè-ac Malncalè-ac Ousncaa-ac Sàhila-ac Rauui-ac Shàll'athmaliè-ac Reteùd-èli-ac Rilsàil-ac Aelil-ac Sonaelu-ac Resd'éu-ac Shàll'varessonèn-ac Mei-ac Sréu-ac Malvàèli-ac D'éèli-ac Vàsréu-ac Laièli-ac Nàld'éu-ac Vaèn-ac Resshàll'ui-ac Ivojalù-èn-ac Rilbrièn-ac Sàu-ac Cyasaasaèli-ac Fhaeri-ac Sàmeeèn-ac Hillail-ac Fhaerui-ac Tésalù-èn-ac Vahilathèn-ac Hilui-ac Sréathnésèli-ac Teùd-lè-ac Merauiè-ac D'ébrii-ac Fhaervanésènèli-ac Mallè-ac Vàui-ac Shàll'èn-ac Malfhaera-ac Vàoussrénésui-ac Ivojiè-ac Nàlnaènèli-ac Fhaereènèli-ac Nésiè-ac Ivojsonèn-ac Hilfhaeru-ac Eu-ac Briiè-ac Ivojui-ac Inàlathui-ac Nàleènèli-ac Rescyncaènèli-ac Sréènèli-ac Ncaathènèli-ac Tési-ac Brinau-ac Shàll'ui-ac
+	}
+	culture = {
+		high_elven_1 = {}
+		high_elven_2 = {}
+		high_elven_3 = {}
+		high_elven_4 = {}
+		high_elven_5 = {}
+
+	}
+	barbarian_names = { WERHENLAND LUXTERREICH ARALANS }
+	
+	graphical_culture = high_elf_gfx
+	ethnicities = {
+		10 = high_elves
+	}
+}
+	
