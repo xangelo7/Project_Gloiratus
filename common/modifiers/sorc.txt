@@ -1,0 +1,17 @@
+orcish_army_modifier = {
+	light_infantry_morale = 0.10
+	light_infantry_discipline = 0.05
+}
+
+orcish_unity_modifier = {
+	happiness_for_wrong_culture_modifier = 0.2
+}
+
+orc_supply_line_modifier = {
+	supply_limit_modifier = 0.5
+	movement_cost = -0.2
+}
+
+orcish_raiding_army_modifier = {
+	enslavement_efficiency = 0.15
+}

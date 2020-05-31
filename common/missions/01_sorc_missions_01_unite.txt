@@ -1,0 +1,257 @@
+sorc_unite_tribal = {
+    header = "mission_image_general"
+    icon = "general_1"
+
+    repeatable = no
+
+    chance = {}
+
+    potential = { 
+    	country_culture_group = orcish
+    }
+
+    abort = {}
+
+    on_potential = {}
+
+    on_start = {}
+
+    on_abort = {}
+
+    sorc_unite_tribal_preparation = {
+        icon = "task_political"
+
+        duration = 365
+
+        potential = {}
+
+        allow = {
+        	treasury >= 75
+        }
+
+        on_start = {
+        	add_treasury = -75
+        }
+
+        on_completion = {
+        	add_country_modifier = {
+        		name = orcish_army_modifier
+        		duration = -1
+        	}
+        }
+    }
+
+    sorc_unite_tribal_homeland = {
+        icon = "task_expansion"
+
+        requires = { sorc_unite_tribal_preparation }
+
+        duration = 120
+
+        bypass = {}
+
+        potential = {}
+
+        allow = {}
+
+        on_completion = {
+        	area:bloody_islands_rendun_area_1 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_rendun_area_2 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_rendun_area_3 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_rendun_area_4 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_rendun_area_5 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_rendun_area_6 = { add_provincial_claim_effect = yes }
+        }
+    }
+
+    sorc_unite_tribal_mainland_pacify = {
+        icon = "task_political"
+
+        requires = { sorc_unite_tribal_homeland } 
+
+        potential = {}
+
+        highlight = {
+            scope:province = {
+				OR = {
+					province_id = 2685 
+        	        province_id = 2589 
+        	        province_id = 2461 
+        	        province_id = 2443 
+        	        province_id = 2448
+        	        province_id = 2260 
+                    province_id = 2109
+                    province_id = 2060 
+                    province_id = 1997 
+                    province_id = 1901 
+                    province_id = 1923 
+                    province_id = 1851  
+				}
+			}
+		}
+
+        allow = { 
+            owns_or_subject_owns = 2685 
+        	owns_or_subject_owns = 2589 
+        	owns_or_subject_owns = 2461 
+        	owns_or_subject_owns = 2443 
+        	owns_or_subject_owns = 2448
+        	owns_or_subject_owns = 2260 
+            owns_or_subject_owns = 2109
+            owns_or_subject_owns = 2060 
+            owns_or_subject_owns = 1997 
+            owns_or_subject_owns = 1901 
+            owns_or_subject_owns = 1923 
+            owns_or_subject_owns = 1851 
+        }
+
+        on_completion = {
+        	add_country_modifier = {
+        		name = orcish_unity_modifier
+        		duration = -1
+        	}
+        }
+    }
+
+    sorc_unite_landing = {
+        icon = "task_expansion"
+
+        requires = { sorc_unite_tribal_mainland_pacify }
+
+        duration = 120
+
+        bypass = {}
+
+        potential = {}
+
+        highlight = {
+            scope:province = {
+                province_id = 2429
+                province_id = 2558
+                province_id = 2300
+            }
+        }
+
+        allow = {
+            treasury >= 100
+            any_country_sub_unit = {
+                count >= 16
+                OR = {
+                    sub_unit_type = trireme
+                    sub_unit_type = tetrere
+                }
+            }
+        }
+
+        on_completion = { 
+            p:2499 = { set_conquered_by = root }
+            p:2426 = { set_conquered_by = root }   
+            p:2300 = { set_conquered_by = root } 
+            add_treasury = -100
+        }
+    }
+
+    sorc_conquer_portdev = {
+        icon = "task_political"
+
+        duration = 120
+
+        potential = {}
+
+        requires = { sorc_unite_tribal_homeland } 
+
+        highlight = {
+            scope:province = {
+                province_id = 2499
+                province_id = 2426
+                province_id = 2300
+            }
+        }
+
+        allow = {
+            treasury >= 60
+            owns_or_subject_owns = 2300
+            owns_or_subject_owns = 2499
+            owns_or_subject_owns = 2426
+        }
+
+        on_start = {}
+
+        on_completion = {
+            add_treasury = -60
+            p:2300 = {
+                add_province_modifier = {
+                    name = orc_supply_line_modifier
+                    duration = -1
+                }
+            }
+            p:2426 = {
+                add_province_modifier = {
+                    name = orc_supply_line_modifier
+                    duration = -1
+                }
+            }
+            p:2499 = {
+                add_province_modifier = {
+                    name = orc_supply_line_modifier
+                    duration = -1
+                }
+            }
+        }
+    }
+
+    sorc_conquer_ready = {
+        icon = "task_political"
+
+        requires = { sorc_conquer_portdev }
+
+        duration = 60
+
+        potential = {}
+
+        allow = {
+        	treasury >= 40
+        }
+
+        on_start = {
+        	add_treasury = -40
+        }
+
+        on_completion = {
+        	add_country_modifier = {
+        		name = orcish_raiding_army_modifier
+        		duration = -1
+            }
+            area:rohenoa_shout_area_3 = { add_provincial_claim_effect = yes }
+            area:rohenoa_norte_area_3 = { add_provincial_claim_effect = yes }
+        }
+    }
+
+    sorc_conquer_pacify = {
+        icon = "task_political"
+
+        requires = { sorc_conquer_ready } 
+
+        potential = {}
+
+        final = yes
+
+        highlight = {
+			scope:province = {
+                is_in_area = rohenoa_shout_area_3
+                is_in_area = rohenoa_norte_area_3
+			}
+		}
+
+        allow = { 
+            owns_or_subject_owns_area = rohenoa_norte_area_3
+            owns_or_subject_owns_area = rohenoa_shout_area_3
+        }
+
+        on_completion = {
+            trigger_event = {
+        		id = sorc_nova.1
+        	}
+        }
+    } 
+}
