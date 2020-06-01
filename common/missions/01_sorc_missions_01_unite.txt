@@ -109,6 +109,10 @@ sorc_unite_tribal = {
         	add_country_modifier = {
         		name = orcish_unity_modifier
         		duration = -1
+            }
+            add_country_modifier = {
+        		name = orcish_assimilation_modifier
+        		duration = 730
         	}
         }
     }
@@ -120,7 +124,11 @@ sorc_unite_tribal = {
 
         duration = 120
 
-        bypass = {}
+        bypass = {
+            owns_or_subject_owns = 2300
+            owns_or_subject_owns = 2499
+            owns_or_subject_owns = 2426
+        }
 
         potential = {}
 
@@ -158,14 +166,16 @@ sorc_unite_tribal = {
 
         potential = {}
 
-        requires = { sorc_unite_tribal_homeland } 
+        requires = { sorc_unite_tribal_preparation } 
 
         highlight = {
             scope:province = {
-                province_id = 2499
-                province_id = 2426
-                province_id = 2300
-            }
+				OR = {
+					province_id = 2300
+        	        province_id = 2499
+        	        province_id = 2426
+				}
+			}
         }
 
         allow = {
@@ -234,12 +244,12 @@ sorc_unite_tribal = {
 
         potential = {}
 
-        final = yes
-
         highlight = {
-			scope:province = {
-                is_in_area = rohenoa_shout_area_3
-                is_in_area = rohenoa_norte_area_3
+            scope:province = {
+				OR = {
+					is_in_area = rohenoa_shout_area_3
+                    is_in_area = rohenoa_norte_area_3
+				}
 			}
 		}
 
@@ -254,4 +264,289 @@ sorc_unite_tribal = {
         	}
         }
     } 
+
+    sorc_conquer_rest = {
+        icon = "task_expansion"
+
+        requires = { sorc_conquer_pacify }
+
+        duration = 120
+
+        bypass = {}
+
+        potential = {}
+
+        allow = {}
+
+        on_completion = {
+            area:rohenoa_norte_area_1 = { add_provincial_claim_effect = yes }
+            area:rohenoa_norte_area_2 = { add_provincial_claim_effect = yes }
+            area:rohenoa_norte_area_3 = { add_provincial_claim_effect = yes }
+            area:rohenoa_norte_area_4 = { add_provincial_claim_effect = yes }
+            area:north_rohenoan_safeheaven= { add_provincial_claim_effect = yes }
+            area:rohenoa_central_area_1 = { add_provincial_claim_effect = yes }
+            area:rohenoa_capitalum_area = { add_provincial_claim_effect = yes }
+            area:rohenoa_central_area_1 = { add_provincial_claim_effect = yes }
+            area:rohenoa_shout_area_3 = { add_provincial_claim_effect = yes }
+            area:rohenoa_shout_area_2 = { add_provincial_claim_effect = yes }
+            area:rohenoa_shout_area_1 = { add_provincial_claim_effect = yes }
+            area:rohevia_area_3 = { add_provincial_claim_effect = yes }
+            area:rohevia_area_2 = { add_provincial_claim_effect = yes }
+            area:rohevia_area_1 = { add_provincial_claim_effect = yes }
+        }
+    }
+
+
+    sorc_fortify_1 = {
+        icon = "task_economical"
+
+        requires = { sorc_conquer_rest }  
+
+        potential = {}
+		
+		highlight = {
+			scope:province = {
+				province_id = 3018
+			}
+		}
+
+        allow = {
+            treasury >= 50
+            owns_or_subject_owns = 3018
+			p:3018 = {
+				fort_level >= 1
+			}
+		}
+
+		on_completion = { 
+            add_treasury = -50
+            trigger_event = {
+        		id = sorc_nova.2
+        	}
+        	p:3018 = {
+				add_province_modifier = {
+					name = orc_fort_modifier
+					duration = -1
+				}
+            }	
+        }
+    }
+
+    sorc_fortify_2 = {
+        icon = "task_economical"
+
+        requires = { sorc_conquer_rest }  
+
+        potential = {}
+		
+		highlight = {
+			scope:province = {
+				province_id = 2962
+			}
+		}
+
+        allow = {
+            treasury >= 50
+            owns_or_subject_owns = 2962
+			p:2962 = {
+				fort_level >= 1
+			}
+		}
+
+		on_completion = { 
+            add_treasury = -50
+            trigger_event = {
+        		id = sorc_nova.2
+        	}
+        	p:2962 = {
+				add_province_modifier = {
+					name = orc_fort_modifier
+					duration = -1
+				}
+            }
+        }
+    }
+
+    sorc_unite_tribal_island = {
+        icon = "task_expansion"
+
+        requires = { sorc_unite_tribal_preparation }
+
+        duration = 120
+
+        bypass = {}
+
+        potential = {}
+
+        allow = {}
+
+        on_completion = {
+            area:bloody_islands_remun_area_1 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_remun_area_2 = { add_provincial_claim_effect = yes }
+            area:bloody_islands_remun_area_3 = { add_provincial_claim_effect = yes }
+        }
+    }
+
+    sorc_unite_tribal_island_pacify = {
+        icon = "task_political"
+
+        requires = { sorc_unite_tribal_island }  
+
+        potential = {}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					is_in_area = bloody_islands_remun_area_1
+                    is_in_area = bloody_islands_remun_area_2
+                    is_in_area = bloody_islands_remun_area_3
+				}
+			}
+		}
+
+        allow = { 
+            owns_or_subject_owns_area = bloody_islands_remun_area_1
+            owns_or_subject_owns_area = bloody_islands_remun_area_2
+            owns_or_subject_owns_area = bloody_islands_remun_area_3
+        }
+
+        on_completion = { 
+        	area:bloody_islands_remun_area_1 = {
+				ordered_area_province = {
+					order_by = total_population
+					max = 1
+					if = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}
+							}
+						}
+						custom_tooltip = assimilate_15_tt
+						ordered_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}								}
+							order_by = pop_hapiness
+							max = 14
+							check_range_bounds = no
+							hidden_effect = {
+								set_pop_culture = prev.owner.culture
+							}
+						}
+					}
+					else = {
+						while = {
+							count = 5
+							create_state_pop = citizen
+						}
+					}
+				}
+            }
+            area:bloody_islands_remun_area_2 = {
+				ordered_area_province = {
+					order_by = total_population
+					max = 1
+					if = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}
+							}
+						}
+						custom_tooltip = assimilate_15_tt
+						ordered_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}								}
+							order_by = pop_hapiness
+							max = 14
+							check_range_bounds = no
+							hidden_effect = {
+								set_pop_culture = prev.owner.culture
+							}
+						}
+					}
+					else = {
+						while = {
+							count = 5
+							create_state_pop = citizen
+						}
+					}
+				}
+            }
+            area:bloody_islands_remun_area_3 = {
+				ordered_area_province = {
+					order_by = total_population
+					max = 1
+					if = {
+						limit = {
+							any_pops_in_province = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}
+							}
+						}
+						custom_tooltip = assimilate_15_tt
+						ordered_pops_in_province = {
+							limit = {
+								NOT = {
+									pop_culture = prev.owner.culture
+								}								}
+							order_by = pop_hapiness
+							max = 14
+							check_range_bounds = no
+							hidden_effect = {
+								set_pop_culture = prev.owner.culture
+							}
+						}
+					}
+					else = {
+						while = {
+							count = 5
+							create_state_pop = citizen
+						}
+					}
+				}
+			}	
+        }
+    }
+
+    sorc_united = {
+        icon = "task_political"
+
+        requires = { 
+            sorc_unite_tribal_island_pacify
+            sorc_fortify_1
+            sorc_fortify_2
+            sorc_unite_tribal_mainland_pacify
+        } 
+
+        final = yes
+
+        potential = {}
+
+        allow = {}
+
+        on_completion = {
+            trigger_event = {
+        		id = sorc_nova.2
+        	}
+        	add_country_modifier = {
+        		name = orcish_hegemony_modifier
+        		duration = -1
+            }
+            change_country_name = "BARLARIA_NAME"
+			change_country_adjective = "BARLARIA_ADJECTIVE"
+            hidden_effect = {
+                change_country_tag = BLR
+                change_country_flag = BLR_FLAG 
+                change_country_color = navy_blue
+            }
+        }
+    }
 }

@@ -59,8 +59,8 @@ sorc_nova.1 = {
         					OR = {
 	    						is_in_region = rohevia_region
 	    						is_in_region = rohenoa_shout_region
-							is_in_region = rohenoa_central_region
-							is_in_region = rohenoa_north_region
+								is_in_region = rohenoa_central_region
+								is_in_region = rohenoa_north_region
 	    					}
 
         				}		
@@ -79,12 +79,12 @@ sorc_nova.1 = {
         				}	
         			}
         			save_scope_as = barlaria_nova_scope
-        			current_ruler = { save_scope_as = carthago_nova_ruler }
+        			current_ruler = { save_scope_as = barlaria_nova_ruler }
         			scope:barlaria_nova_scope = {
 						change_country_name = "BARLARIA_NOVA_NAME"
 						change_country_adjective = "BARLARIA_NOVA_ADJECTIVE"
-						change_country_tag = BRL
-						change_country_flag = BARLARIA_NOVA_FLAG
+						change_country_tag = BRN
+						change_country_flag = BRN_FLAG 
 						change_country_color = navy_blue
         			}
         		}
@@ -97,8 +97,8 @@ sorc_nova.1 = {
 							adjective = "BARLARIA_NOVA_ADJECTIVE"
 						}
 						save_scope_as = barlaria_nova_scope
-						change_country_tag = BRL
-						change_country_flag = BARLARIA_NOVA_FLAG
+						change_country_tag = BRN
+						change_country_flag = BRN_FLAG 
 						change_country_color = navy_blue
 						set_primary_culture = orcish_1
 						set_country_religion = orcish_ancestral_faith
@@ -126,6 +126,38 @@ sorc_nova.1 = {
 					target = scope:barlaria_nova_scope
 					type = subject_colony
 				}
+			}
+    	}
+	}
+}
+
+sorc_nova.2 = {
+    type = country_event
+    title = sorc_nova.2.t
+    desc = sorc_nova.2.desc
+    picture = greek_city_market
+    
+    left_portrait = current_ruler
+
+    trigger = {}
+
+    immediate = {
+    }
+
+    option = {      
+        name = sorc_nova.2.a
+		custom_tooltip = sorc_nova.2.a.tt
+        hidden_effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_region = rohevia_region
+						is_in_region = rohenoa_shout_region
+						is_in_region = rohenoa_central_region
+						is_in_region = rohenoa_north_region
+					}
+				}
+				set_conquered_by = A00
 			}
     	}
 	}

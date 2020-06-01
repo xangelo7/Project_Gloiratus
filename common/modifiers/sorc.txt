@@ -7,6 +7,10 @@ orcish_unity_modifier = {
 	happiness_for_wrong_culture_modifier = 0.2
 }
 
+orcish_assimilation_modifier = {
+	global_pop_assimilation_speed_modifier = 0.15
+}
+
 orc_supply_line_modifier = {
 	supply_limit_modifier = 0.5
 	movement_cost = -0.2
@@ -14,4 +18,14 @@ orc_supply_line_modifier = {
 
 orcish_raiding_army_modifier = {
 	enslavement_efficiency = 0.15
+}
+
+orc_fort_modifier = {
+	local_defensive = 0.25
+}
+
+orcish_hegemony_modifier = {
+	global_population_growth = 0.15
+	global_monthly_civilization = 0.2
+	global_commerce_modifier = 0.2
 }
