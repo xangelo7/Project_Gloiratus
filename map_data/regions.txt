@@ -435,6 +435,7 @@ upper_beatep_area_5
 upper_beatep_area_3
 golden_hills_area_2
 golden_hills_area_1
+upper_beatep_area_6
 }
 }
 upper_beatep_east = {
@@ -442,6 +443,8 @@ areas = {
 upper_beatep_area_1
 upper_beatep_area_4
 upper_beatep_area_2
+upper_beatep_area_7
+golden_hills_area_4
 }
 }
 egalia_majori_region = {

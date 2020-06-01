@@ -9010,7 +9010,8 @@ accessory_genes = {
                20 = female_hair_eptelon_1	
                20 = female_hair_eptelon_2			   
                20 = male_hair_eptelon_1_hair_femaleV2
-               20 = male_hair_eptelon_1_hair_female			   
+               20 = male_hair_eptelon_1_hair_female		
+               #20 = female_hair_eptelon_3			   
             }
             boy = male
             girl = female
@@ -9354,14 +9355,37 @@ accessory_genes = {
 			   1 = female_hair_greek_5					
             }
         }
-		
+        arteon_hairstyles = {
+            index = 61
+			male = {
+				6 = empty		
+			    20 = male_hair_egyptian_1			
+                20 = male_hair_ethiopian_1
+                20 = male_hair_ethiopian_2
+                20 = male_hair_ethiopian_3
+                20 = male_hair_numidian_1
+                20 = male_hair_eptelon_1_hair	
+                20 = male_hair_eptelon_1				
+           }
+            female = {
+               6 = female_hair_ethiopian_1
+               20 = female_hair_ethiopian_2
+               20 = female_hair_bhaxnmrectem_3	
+               20 = female_hair_eptelon_1	
+               20 = female_hair_eptelon_2			   
+               20 = male_hair_eptelon_1_hair_femaleV2
+               20 = male_hair_eptelon_1_hair_female			   
+            }
+            boy = male
+            girl = female
+        } 		
 #####################################
 #									#
 # 		Morrigon Celt Hair	        #
 #									#
 #####################################		
         morrigon_celt_hairstyles = {
-            index = 61
+            index = 62
             male = {
                 1 = male_hair_roman_1
                 1 = male_hair_roman_4
@@ -12502,7 +12526,19 @@ accessory_genes = {
 				6 = male_clothes_iberian_4_color4						
                70 = empty				
             }
+        } 
+        aralan_top_layer = {
+            index = 27
+            male = {
+                1 = male_clothes_aralan_2
+                1 = male_clothes_aralan_2_color2
+                1 = male_clothes_aralan_2_color3
+                1 = male_clothes_aralan_2_color4
+                2 = empty
+            }
         }  
+
+		
     }     
 
 	headgear = {

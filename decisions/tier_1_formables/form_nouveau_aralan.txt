@@ -86,7 +86,7 @@ country_decisions = {
 				change_country_color =  "dark_burgundy"
 				change_country_tag = NAR
 				change_country_flag = "NAR_FLAG"
-                set_graphical_culture = nouveau_aralan_gfx				
+			
 				every_owned_province = {
 					every_pops_in_province = {
 						limit = {

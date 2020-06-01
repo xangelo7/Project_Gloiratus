@@ -2,7 +2,7 @@
 fortress_building = {
 	fort_level = 1
 	
-	cost = 100
+	cost = 50
 	time = 915
 	
 	
@@ -28,7 +28,7 @@ mining_settlement_building = { #Mine
 		has_minable_trade_good_trigger = yes 
 	}
 	
-	cost = 220
+	cost = 120
 	time = 730
 	
 	modification_display = {
@@ -61,7 +61,7 @@ farming_settlement_building = { #Farming Settlement
 		has_food_trade_good_trigger = yes
 	}
 	
-	cost = 100
+	cost = 50
 	time = 730
 	
 	modification_display = {
@@ -97,7 +97,7 @@ fishing_settlement_building = { #fishing Settlement
 	is_coastal = yes
 	}
 	
-	cost = 175
+	cost = 75
 	time = 730
 	
 	modification_display = {
@@ -133,7 +133,7 @@ town_settlement_building = { #Town
 	any_neighbor_province = { has_city_status = yes }
 	}
 	
-	cost = 250
+	cost = 50
 	time = 1460
 	
 	modification_display = {
@@ -169,7 +169,7 @@ noble_estate_building = { #estate Settlement
 		has_food_trade_good_trigger = yes
 	}
 	
-	cost = 200
+	cost = 150
 	time = 730
 	
 	modification_display = {
@@ -208,7 +208,7 @@ hunting_camp_building = { #hunting camp
 	
 	}
 	
-	cost = 125
+	cost = 75
 	time = 365
 	
 	modification_display = {
@@ -240,7 +240,7 @@ logging_camp_building = { #logging camp
 	
 	}
 	
-	cost = 80
+	cost = 50
 	time = 365
 	
 	modification_display = {
@@ -285,7 +285,7 @@ noble_castle_building = { #estate Settlement
 		
 	}
 	
-	cost = 300
+	cost = 150
 	time = 3650
 	
 	modification_display = {
@@ -335,7 +335,7 @@ monastery_settlement_building = {
 		
 	}
 	
-	cost = 200
+	cost = 100
 	time = 1500
 	
 	modification_display = {
@@ -372,7 +372,7 @@ undercity_farms_building = { #Farming Settlement
 		has_food_trade_good_trigger = yes
 	}
 	
-	cost = 150
+	cost = 75
 	time = 730
 	
 	modification_display = {
@@ -397,7 +397,7 @@ housing_district_building = { #housing district
 	local_freemen_desired_pop_ratio = 0.05
 	local_citizen_desired_pop_ratio = 0.05
 	
-	cost = 100
+	cost = 50
 	time = 365
 
 	potential = {
@@ -438,7 +438,7 @@ trade_district_building = { #trade district
 	local_citizen_output = 0.05
 	local_commerce_value_modifier = 0.25
 	
-	cost = 175
+	cost = 100
 	time = 730
 
 	potential = {
@@ -479,7 +479,7 @@ craftsmans_district_building = { #trade district
 	local_serfs_output = 0.05
 	base_resources = 0.05
 	
-	cost = 150
+	cost = 100
 	time = 730
 
 	potential = {
@@ -532,7 +532,7 @@ nobility_district_building = { #trade district
 	local_tnoble_output = 0.05
 	local_tax_modifier = 0.05
 	
-	cost = 225
+	cost = 125
 	time = 730
 
 	potential = {
@@ -588,7 +588,7 @@ ironworks_building = { #ironworks
 	owner = { invention = ironworks_invention }
 	}
 	
-	cost = 160
+	cost = 100
 	time = 730
 	
 	modification_display = {
@@ -608,7 +608,7 @@ ironworks_building = { #ironworks
 population_building = { #Granary
 	local_food_capacity = 400
 
-	cost = 100
+	cost = 75
 	time = 365
 
 	potential = {
@@ -630,7 +630,7 @@ temple_building = {
 	local_research_points_modifier = 0.1
 	
 	
-	cost = 150
+	cost = 100
 	time = 730
 
 	potential = {
@@ -661,7 +661,7 @@ taverns_and_inns_building = {
 	local_serfs_happyness = 0.025
 	local_commerce_value_modifier = 0.05
 	
-	cost = 150
+	cost = 50
 	time = 730
 
 	potential = {
@@ -701,7 +701,7 @@ barracks_building = { #Training Camp
 	garrison_growth = 0.025
 	garrison_size = 0.05
 
-	cost = 100
+	cost = 75
 	time = 365
 	
 	potential = {
@@ -744,7 +744,7 @@ shipyard_building = { #shipyard
 	local_ship_start_experience = 10
 	local_commerce_value_modifier = 0.15
 
-	cost = 200
+	cost = 125
 	time = 730
 	
 	potential = {
@@ -774,7 +774,7 @@ town_hall_building = { #Tax Office
 	city_monthly_state_loyalty  = 0.03
 	local_output_modifier = 0.1
 
-	cost = 400
+	cost = 200
 	time = 730
 
 	potential = {
@@ -819,7 +819,7 @@ guilds_hall_building = { #Tax Office
 	local_serfs_output = 0.2
 	
 
-	cost = 300
+	cost = 165
 	time = 730
 
 	potential = {
@@ -872,7 +872,7 @@ main_market_building = { #main market
 	local_citizen_output = 0.125
 	local_citizen_happyness = 0.075
 	
-	cost = 400
+	cost = 175
 	time = 1095
 
 	potential = {
@@ -917,7 +917,7 @@ drilling_square_building = { #drilling square
 	garrison_growth = 0.25
 	garrison_size = 0.5
 	
-	cost = 300
+	cost = 200
 	time = 1095
 
 	potential = {
@@ -957,7 +957,7 @@ city_walls_building = { #city walls
 	local_population_capacity_modifier = 0.1
 	supply_limit_modifier = 0.33
 	
-	cost = 250
+	cost = 225
 	time = 1450
 
 	potential = {
@@ -1021,7 +1021,7 @@ univeristy_building = {
 		
 	}
 	
-	cost = 300
+	cost = 275
 	time = 730
 	
 	modification_display = {
@@ -1065,7 +1065,7 @@ wizard_tower_building = {
 		
 	}
 	
-	cost = 300
+	cost = 250
 	time = 730
 	
 	modification_display = {
@@ -1110,7 +1110,7 @@ aristocratic_assembly_building = {
 		
 	}
 	
-	cost = 450
+	cost = 350
 	time = 365
 	
 	modification_display = {
