@@ -15,6 +15,8 @@
 	}
 
 	start = {
+		heavy_cavalry_discipline = 0.12	
+		light_infantry_cost = -0.15		
 		land_unit_attrition = -0.15
 	}
 	

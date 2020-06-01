@@ -1384,6 +1384,53 @@ provinces = { #Any entry must contain a comment with city name.
 	2460 = {
 		farming_settlement_building = 1			
 	}	
+	2265 = {
+		noble_castle_building = 1			
+	}
+	2347 = {
+		housing_district_building = 1	
+		undercity_farms_building = 1	
+		taverns_and_inns_building = 1
+		drilling_square_building = 1
+		nobility_district_building = 1		
+		temple_building = 1	
+		city_walls_building = 1			
+	}	
+	2422 = {	
+		undercity_farms_building = 2	
+		taverns_and_inns_building = 1
+		nobility_district_building = 1		
+		city_walls_building = 1			
+	}
+	2561 = {	
+		undercity_farms_building = 2	
+		taverns_and_inns_building = 1
+		nobility_district_building = 1		
+		city_walls_building = 1			
+	}	
+	2630 = {	
+		undercity_farms_building = 2	
+		taverns_and_inns_building = 1
+		nobility_district_building = 1		
+		city_walls_building = 1			
+	}	
+	2774 = {	
+		undercity_farms_building = 2	
+		taverns_and_inns_building = 1		
+		shipyard_building = 2			
+	}
+	2301 = {
+		noble_castle_building = 1			
+	}
+	3113 = {
+		farming_settlement_building = 1			
+	}
+	2916 = {
+		town_settlement_building = 1			
+	}
+	3048 = {
+		town_settlement_building = 1			
+	}	
 ####################	
 #####Pirates########
 ######################################################################################
@@ -1834,10 +1881,10 @@ country = {
 			capital = 2720
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=2 progress=4 }
+				civic_tech={ level=2 progress=2 }
+				oratory_tech={ level=2 progress=2 }
+				religious_tech= { level=2 progress=1  }
 			}
 
 			pantheon = { 

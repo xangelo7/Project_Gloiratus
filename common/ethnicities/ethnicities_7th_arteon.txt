@@ -412,7 +412,7 @@ gene_bs_mouth_uLipFull = {
 }
 
 hairstyles = {
-    10 = { name = eptelon_hairstyles          range = { 0.0 0.84 } }
+    10 = { name = arteon_hairstyles          range = { 0.0 1.0 } }
 }
 
 eyebrows = {

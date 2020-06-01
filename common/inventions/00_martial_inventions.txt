@@ -1,4 +1,5 @@
 ﻿#Level 0
+army_maintenance_cost_inv_0 = { 		army_maintenance_cost = -0.10 	military_tech = 0 }
 days_before_knighood = { heavy_cavalry_discipline = 0.075				military_tech = 0 }
 ealry_medieval_levies = {  light_infantry_cost = -0.1					military_tech = 0 }
 castles_of_early_middleage = { 	global_defensive = 0.075				military_tech = 0 }

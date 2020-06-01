@@ -277,8 +277,7 @@
 	}
 	52={
 		first_name="Degu"
-		family = c:El6.fam:Mshindi
-		female=yes		
+		family = c:El6.fam:Mshindi		
 		birth_date=980.1.21
 		culture="eptelonian_3"
 		religion="ancestral_beliefs"
