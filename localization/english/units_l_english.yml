@@ -252,7 +252,7 @@
  chariots:0 "Chariots"
  heavy_infantry:0 "Heavy Infantry"
  horse_archers:0 "Horse Archers"
- warelephant:0 "War Elephants"
+ warelephant:0 "Special Mounts"
  archers:0 "Archers"
  supply_train:0 "Supply Train"
  liburnian:0 "Galley" 
@@ -444,7 +444,8 @@
  warelephants_eptelon:0 "Ghergian Elephant"
  archers_eptelon:0 "Tribal Bowmen"
  chariots_eptelon:0 "War Bogies"
-
+ warelephant_eptelon:0 "War Rhynos"
+ 
  #arteonian
  light_infantry_arteonian:0 "Levy Spearmen"
  heavy_infantry_arteonian:0 "Armored Warrior"

@@ -134,3 +134,12 @@ riverine_terrain = {
 		movement_cost = 0.15
 	}
 }
+coastal_island_terrain = {
+	color = { 0.88 0.196 0.158 }
+	
+	
+	modifier = {
+		local_population_capacity_modifier = 0.2
+		local_monthly_food = 3.7		
+	}
+}

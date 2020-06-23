@@ -1,0 +1,72 @@
+object={
+	name="mycenaean_city_wall"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_entity"
+	count=0
+}
+object={
+	name="mycenaean_city_wall_01"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_01_entity"
+	count=3
+	transform="1659.282471 0.000000 2686.593262 0.000000 0.484466 0.000000 0.874810 1.000000 1.000000 1.000000
+1659.397217 0.000000 2699.048584 0.000000 0.557004 0.000000 0.830510 1.000000 1.000000 1.000000
+1657.566162 1.421387 2692.887939 0.000000 0.998629 0.000000 0.052340 1.000000 1.000000 1.000000
+"}
+object={
+	name="mycenaean_city_wall_02"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_02_entity"
+	count=0
+}
+object={
+	name="mycenaean_city_wall_03"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_03_entity"
+	count=0
+}
+object={
+	name="mycenaean_city_wall_04"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_04_entity"
+	count=0
+}
+object={
+	name="mycenaean_city_wall_05"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_05_entity"
+	count=2
+	transform="1650.419434 0.085449 2694.345459 0.000000 0.777340 0.000000 0.629080 1.000000 1.000000 1.000000
+1653.144165 0.000000 2698.501221 0.000000 0.945448 0.000000 0.325772 1.000000 1.000000 1.000000
+"}
+object={
+	name="mycenaean_city_wall_06"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	entity="mycenaean_city_wall_06_entity"
+	count=4
+	transform="1656.695068 0.000000 2699.490967 0.000000 -0.994280 0.000000 0.106801 1.000000 1.000000 1.000000
+1658.813721 0.473389 2687.178955 0.000000 0.771853 0.000000 -0.635801 1.000000 1.000000 1.000000
+1658.028198 1.646240 2691.289795 0.000000 0.771853 0.000000 -0.635801 1.000000 1.000000 1.000000
+1658.487183 1.080811 2688.736572 0.000000 0.771853 0.000000 -0.635801 1.000000 1.000000 1.000000
+"}

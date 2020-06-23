@@ -595,6 +595,9 @@ diplomacy = {
 	dependency = { first = ARL second = RCE subject_type = princedom_vassal }	
 	dependency = { first = ARL second = RCC subject_type = princedom_vassal }	
 
+	#Toparli
+	dependency = { first = AE3 second = UPK subject_type = princedom_vassal }	
+
     #Atheus
 	alliance = { first = ATH second = HE4 }	
 	
@@ -4777,8 +4780,7 @@ country = {
 			government = despotic_monarchy
 			diplomatic_stance=trading_stance
 			primary_culture = arteonian_6
-			religion = victory_pantheon
-			is_antagonist = yes			
+			religion = victory_pantheon		
 			capital = 888
 		
 			own_control_core = {
@@ -5301,12 +5303,21 @@ country = {
 		AE3 = {
 			government = plutocratic_monarchy
 			diplomatic_stance=trading_stance
-			primary_culture = aeptelonians
-			religion = artheous_pantheon			
-			capital = 1097
+			primary_culture = austroeonian
+			religion = victory_pantheon
+			technology={
+				military_tech={ level=2 progress=2 }
+				civic_tech={ level=2 progress=3 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}			
+			succession_law=cognatic_succession_law
+			succession=cognatic
+			
+			capital = 5556
 		
 			own_control_core = {
-			1097 1088       
+			5556 5555 5557 5554 5561 5562      
 			}
 	
 		}
@@ -5396,6 +5407,18 @@ country = {
 			}
 	
 		}
+		AEB = {
+			government = plutocratic_monarchy
+			diplomatic_stance=trading_stance
+			primary_culture = aeptelonians
+			religion = artheous_pantheon			
+			capital = 1033
+		
+			own_control_core = {
+			1097 1088        
+			}
+	
+		}		
 		HA0 = {
 			government = tribal_chiefdom
 			primary_culture = heptelonians
@@ -11642,29 +11665,240 @@ country = {
 		}
 
 
+########Snake folk
 
+		UP0 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_15
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5551
+		
+			own_control_core = {
+			 5551 5552     
+			}
+		}
+		UP1 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_15
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5652
+		
+			own_control_core = {
+			 5652      
+			}
+		}
+		UP2 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_15
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5583
+		
+			own_control_core = {
+			 5583      
+			}
+		}
+		UP3 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_14
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5582
+		
+			own_control_core = {
+			 5582 5581      
+			}
+		}
+		UP4 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_14
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5585
+		
+			own_control_core = {
+			 5585 5584      
+			}
+		}
+		UP5 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_14
+			religion = the_old_pantheon
+			centralization=-45			
+			capital = 5580
+		
+			own_control_core = {
+			 5580       
+			}
+		}
+		UP6 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_13
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5579
+		
+			own_control_core = {
+			 5579 5578      
+			}
+		}
 
+		UP7 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_13
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5586
+		
+			own_control_core = {
+			 5586 5577      
+			}
+		}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		UP8 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_16
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5573
+		
+			own_control_core = {
+			 5573 5575      
+			}
+		}
+		UP9 = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_15
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5574
+		
+			own_control_core = {
+			 5574       
+			}
+		}
+		UPA = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_12
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5588
+		
+			own_control_core = {
+			 5588 5589 5590       
+			}
+		}
+		UPB = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_12
+			religion = the_old_pantheon
+			centralization=-35			
+			capital = 5587
+		
+			own_control_core = {
+			5587        
+			}
+		}
+		UPC = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_12
+			religion = the_old_pantheon
+			centralization=-45			
+			capital = 5597
+		
+			own_control_core = {
+			5597        
+			}
+		}
+		UPD = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_12
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5598
+		
+			own_control_core = {
+			5598        
+			}
+		}
+		UPE = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_11
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5591
+		
+			own_control_core = {
+			5591 5592 5596         
+			}
+		}
+		UPF = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_11
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5593
+		
+			own_control_core = {
+			5593 5595 5594         
+			}
+		}
+		UPG = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_17
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5572
+		
+			own_control_core = {
+			5572 5571          
+			}
+		}
+		UPH = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_17
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5567
+		
+			own_control_core = {
+			5567 5569         
+			}
+		}
+		UPI = {
+			government = tribal_kingdom
+			primary_culture = snakefolk_17
+			religion = the_old_pantheon
+			centralization=-40			
+			capital = 5568
+		
+			own_control_core = {
+			5568 5570         
+			}
+		}
+		UPJ = {
+			government = tribal_federation
+			primary_culture = snakefolk_9
+			religion = shamanist_beliefs
+			centralization=-55	
+			capital = 5601
+		
+			own_control_core = {
+			5601 5600 5599 5602  5625 5603 5620       
+			}
+		}
+		UPK = {
+			government = feudal_monarchy
+			primary_culture = snakefolk_1
+			religion = victory_pantheon
+			capital = 5559
+		
+			own_control_core = {
+			5559 5553
+			}
+		}
 
 
 

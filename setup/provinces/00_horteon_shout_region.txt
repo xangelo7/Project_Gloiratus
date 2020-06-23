@@ -624,7 +624,7 @@
 }
 
 321={ #Desshàll
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="horteonian_1"
 	religion="artheous_pantheon"
 	trade_goods="grain"
@@ -690,7 +690,7 @@
 }
 
 345={ #Ussonbrifhaerme
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="high_elven_5"
 	religion="transcendence_enlighten"
 	trade_goods="silk"
@@ -712,7 +712,7 @@
 }
 
 360={ #Srérescy
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="high_elven_5"
 	religion="transcendence_enlighten"
 	trade_goods="grain"

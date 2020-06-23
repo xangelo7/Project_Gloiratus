@@ -21,7 +21,7 @@
 }
 
 4238={ #Kamgaptəch
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="etaredican_8"
 	religion="the_old_pantheon"
 	trade_goods="fish"
@@ -84,7 +84,7 @@
 }
 
 4333={ #Kann
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="etaredican_8"
 	religion="the_old_pantheon"
 	trade_goods="papyrus"
@@ -254,7 +254,7 @@
 }
 
 4433={ #Etpena
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="etaredican_8"
 	religion="the_old_pantheon"
 	trade_goods="fish"

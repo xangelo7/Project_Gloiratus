@@ -377,7 +377,7 @@ provinces = { 642 602 576 628 590 577 544 520 554 550 510 509 549 }
 
 eptelon_north_area_1 = {
 
-provinces = { 428 450 454 456 478 485 482 470 489 504 555 542 551 }
+provinces = { 428 450 454 456 478 485 482 470 489 504 555 542 551 5654 }
 
 }
 eptelon_north_area_2 = {
@@ -2247,3 +2247,136 @@ vast_great_stepes_22 = {
 provinces = { 4383 4465 4494 4528 4583 4567 4568 4645 4719 }
 
 }
+
+austropetolian_isle_1 = {
+
+provinces = { 5551 5552 5652 }
+
+}
+
+austropetolian_peninsula_1 = {
+
+provinces = { 5553 5554 5555 5556 5557 5558 5559 5560 }
+
+}
+
+austropetolian_peninsula_2 = {
+
+provinces = { 5561 5562 5563 5564 5565 5566 5666 5667 5668 5669 5670 5671 }
+
+}
+
+austropetolian_isle_2 = {
+
+provinces = { 5567 5568 5569 5570 5571 5572 }
+
+}
+
+austropetolian_isle_3 = {
+
+provinces = { 5573 5574 5575 5577 5578 }
+
+}
+
+austropetolian_isle_wastedland = {
+
+provinces = { 5576 }
+
+}
+
+austropetolian_isle_4 = {
+
+provinces = { 5579 5580 5581 5582 5583 5584 5585 }
+
+}
+
+austropetolian_isle_5 = {
+
+provinces = { 5586 5587 5588 5589 5597 5598 }
+
+}
+
+austropetolian_isle_6 = {
+
+provinces = { 5590 5591  5592 5593 5594 5595 5596 }
+
+}
+
+austropetolian_archipelago_1 = {
+
+provinces = { 5599 5600 5601 5602 5603 5605 }
+
+}
+
+austropetolian_archipelago_2 = {
+
+provinces = { 5606 5607 5608 5609 5610  }
+
+}
+
+austropetolian_archipelago_wastedland_1 = {
+
+provinces = { 5611 }
+
+}
+
+austropetolian_archipelago_3 = {
+
+provinces = { 5612 5613 5614 5615 }
+
+}
+austropetolian_archipelago_4 = {
+
+provinces = { 5616 5617 5618 5619 5620 }
+
+}
+austropetolian_archipelago_5 = {
+
+provinces = { 5621 5622 5623 5624 5625 5626 }
+
+}
+austropetolian_archipelago_6 = {
+
+provinces = { 5627 5628 5629 5630 5631 5632 5633 }
+
+}
+
+austropetolian_archipelago_7 = {
+
+provinces = { 5634 5604 5635 5636 5637 }
+
+}
+
+austropetolian_archipelago_8 = {
+
+provinces = { 5638 5639 5640 5641 5642 5643 5644 }
+
+}
+
+austropetolian_archipelago_9 = {
+
+provinces = { 5645 5646 5647 5648 5649 5650 5651 }
+
+}
+
+austropetolian_horteon_1 = {
+
+provinces = { 5653 5655 5656 5657 5658 }
+
+}
+
+austropetolian_horteon_2 = {
+
+provinces = { 5659 5660 5661 5662 5663 5664 5665 }
+
+}
+
+baetep_river = {
+
+provinces = { 5672 5673 5674 5675 5676 5677 5678 5679 5680 5681 5682 5683 5684 5685 5686 5687 5688 5689 5690 }
+
+}
+
+
+
+

@@ -22,6 +22,9 @@ female_head_eyes_arame = {
 female_head_eyes_jeddiah_red = {
 	entity = { entity = "female_head_eyes_jeddiah_red_entity" 	node = shared_pose_entity }
 }
+female_head_eyes_snake = {
+	entity = { entity = "female_head_eyes_snake_entity" 	node = shared_pose_entity }
+}
 
 #####################################
 #									#
@@ -47,3 +50,17 @@ male_head_eyes_arame = {
 male_head_eyes_jeddiah_red = {
 	entity = { entity = "male_head_eyes_jeddiah_red_entity"	node = shared_pose_entity	 }
 }
+male_head_eyes_snake = {
+	entity = { entity = "male_head_eyes_snake_entity"	node = shared_pose_entity	 }
+}
+
+
+
+
+
+
+
+
+
+
+

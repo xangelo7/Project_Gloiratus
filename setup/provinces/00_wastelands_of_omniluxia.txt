@@ -282,7 +282,7 @@
 	terrain=""
 	culture="placeholder"
 	religion="the_first_emperor"
-	trade_goods="wood"
+	trade_goods="amber"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"

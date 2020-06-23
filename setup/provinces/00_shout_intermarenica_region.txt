@@ -1,5 +1,5 @@
 ﻿2323={ #Ittanüisha
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="ancestral_beliefs"
 	trade_goods="gems"
@@ -43,7 +43,7 @@
 }
 
 2359={ #Ka-llun
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="wine"
@@ -94,7 +94,7 @@
 }
 
 2582={ #Nüimüina
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_5"
 	religion="helluvian"
 	trade_goods="papyrus"
@@ -157,7 +157,7 @@
 }
 
 2670={ #Ddu-shat
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_5"
 	religion="helluvian"
 	trade_goods="wine"
@@ -321,7 +321,7 @@
 }
 
 2844={ #Küi-tashu
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_2"
 	religion="helluvian"
 	trade_goods="vegetables"
@@ -412,7 +412,7 @@
 }
 
 2882={ #Ddu-nüimatatt
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_2"
 	religion="helluvian"
 	trade_goods="papyrus"
@@ -553,7 +553,7 @@
 }
 
 2957={ #Fiorinoes
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_2"
 	religion="helluvian"
 	trade_goods="fish"

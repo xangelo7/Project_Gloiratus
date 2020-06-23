@@ -89,6 +89,7 @@
  arteonian_3:1 "Nyugedian"
  arteonian_4:0 "Gyulekhy"
  arteonian_5:0 "Gorovani"
+ austroeonian:0 "Austroeonian" 
  #Naming
  northern_arteonian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  northern_arteonian_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$" 
@@ -104,6 +105,7 @@
  eptelonian_5:0 "Edertanian"
  eptelonian_6:0 "Dagaison" 
  eptelonian_7:0 "Tolesucani"  
+ eptelonian_8:0 "Jaomanorian"  
  #Naming
  eptelon_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  eptelon_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$"   
@@ -148,6 +150,63 @@
  ARMY_NAME_horteonian:0 "$NUM$$ORDER$ Army"
  NAVY_NAME_horteonian:0 "$NUM$$ORDER$ Navy"
  COHORT_NAME_horteonian:0 "$HOME$'s $NUM$$ORDER$ Company"   
+ 
+ 
+ 
+ 
+ ARMY_NAME_austropetolian:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_austropetolian:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_austropetolian:0 "$HOME$'s $NUM$$ORDER$ Company"     
+ 
+ ARMY_NAME_snakefolk:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_snakefolk:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_snakefolk:0 "$HOME$'s $NUM$$ORDER$ Company"    
+ 
+ #GROUPS
+ snakefolk:1 "Ular-Pria"
+ #Aserian
+ snakefolk_1:1 "Soalu"
+ snakefolk_2:0 "Thoameni"
+ snakefolk_3:0 "Oltsis"
+ snakefolk_4:0 "Zuliyiss" 
+ snakefolk_5:0 "Sinish" 
+ snakefolk_6:0 "Zosu-pria" 
+ snakefolk_7:1 "Gorgonian"
+ snakefolk_8:0 "Sthenon"
+ snakefolk_9:0 "Euryalean"
+ snakefolk_10:0 "Lami" 
+ snakefolk_11:0 "Scyllan" 
+ snakefolk_12:0 "Lybian"  
+ snakefolk_13:0 "Pegasian" 
+ snakefolk_14:0 "Nagi" 
+ snakefolk_15:0 "Nagarajian"   
+ snakefolk_16:0 "Vasukian" 
+ snakefolk_17:0 "Manasian" 
+ #Naming
+ snakefolk_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ snakefolk_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$"  
+ 
+ #GROUPS
+ austropetolian:1 "Austropetolian"
+ #Naming
+ austropetolian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ austropetolian_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$"   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  

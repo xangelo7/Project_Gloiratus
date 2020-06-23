@@ -15,7 +15,7 @@
 	start = {
         naval_morale_modifier = 0.1	
 		build_cost = -0.15
-		allow_unit_type = chariots		
+		allow_unit_type = chariots			
 	}
 	
 	

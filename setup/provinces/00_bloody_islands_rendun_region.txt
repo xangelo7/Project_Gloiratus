@@ -1180,7 +1180,7 @@
 }
 
 2685={ #Allai
-	terrain="marsh"
+	terrain="coastal_island_terrain"
 	culture="orcish_1"
 	religion="orcish_ancestral_faith"
 	trade_goods="grain"

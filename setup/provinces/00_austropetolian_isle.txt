@@ -1,0 +1,452 @@
+﻿5551={ #PROV5551
+	terrain="coastal_island_terrain"
+	culture="snakefolk_15"
+	religion="the_old_pantheon"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="city"
+	tribesmen={
+		amount=12
+	}
+}
+
+5552={ #PROV5552
+	terrain="coastal_island_terrain"
+	culture="snakefolk_15"
+	religion="the_old_pantheon"
+	trade_goods="amber"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=10
+	}
+}
+
+5567={ #PROV5567
+	terrain="coastal_island_terrain"
+	culture="snakefolk_17"
+	religion="the_old_pantheon"
+	trade_goods="grain"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5568={ #PROV5568
+	terrain="coastal_island_terrain"
+	culture="snakefolk_17"
+	religion="the_old_pantheon"
+	trade_goods="spices"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5569={ #PROV5569
+	terrain="jungle"
+	culture="snakefolk_17"
+	religion="the_old_pantheon"
+	trade_goods="cattle"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5570={ #PROV5570
+	terrain="coastal_island_terrain"
+	culture="snakefolk_16"
+	religion="the_old_pantheon"
+	trade_goods="woad"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5571={ #PROV5571
+	terrain="jungle"
+	culture="snakefolk_17"
+	religion="the_old_pantheon"
+	trade_goods="honey"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5572={ #PROV5572
+	terrain="coastal_island_terrain"
+	culture="snakefolk_17"
+	religion="ancestral_beliefs"
+	trade_goods="stone"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5573={ #PROV5573
+	terrain="coastal_island_terrain"
+	culture="snakefolk_16"
+	religion="the_old_pantheon"
+	trade_goods="olive"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5574={ #PROV5574
+	terrain="coastal_island_terrain"
+	culture="snakefolk_15"
+	religion="the_old_pantheon"
+	trade_goods="spices"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="city"
+	tribesmen={
+		amount=12
+	}
+}
+
+5575={ #PROV5575
+	terrain="jungle"
+	culture="snakefolk_16"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5576={ #PROV5576
+	terrain=""
+	culture="snakefolk_17"
+	religion="beatepian_pantheon"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5577={ #PROV5577
+	terrain="jungle"
+	culture="snakefolk_13"
+	religion="the_old_pantheon"
+	trade_goods="fur"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5578={ #PROV5578
+	terrain="coastal_island_terrain"
+	culture="snakefolk_13"
+	religion="the_old_pantheon"
+	trade_goods="fish"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5579={ #PROV5579
+	terrain="coastal_island_terrain"
+	culture="snakefolk_13"
+	religion="the_old_pantheon"
+	trade_goods="hemp"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5580={ #PROV5580
+	terrain="coastal_island_terrain"
+	culture="snakefolk_14"
+	religion="the_old_pantheon"
+	trade_goods="glass"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="city"
+	tribesmen={
+		amount=6
+	}
+}
+
+5581={ #PROV5581
+	terrain="coastal_island_terrain"
+	culture="snakefolk_14"
+	religion="the_old_pantheon"
+	trade_goods="stone"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5582={ #PROV5582
+	terrain="coastal_island_terrain"
+	culture="snakefolk_14"
+	religion="the_old_pantheon"
+	trade_goods="salt"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5583={ #PROV5583
+	terrain="coastal_island_terrain"
+	culture="snakefolk_15"
+	religion="the_old_pantheon"
+	trade_goods="gems"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="city"
+	tribesmen={
+		amount=12
+	}
+}
+
+5584={ #PROV5584
+	terrain="coastal_island_terrain"
+	culture="snakefolk_14"
+	religion="the_old_pantheon"
+	trade_goods="incense"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5585={ #PROV5585
+	terrain="coastal_island_terrain"
+	culture="snakefolk_14"
+	religion="the_old_pantheon"
+	trade_goods="vegetables"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5586={ #PROV5586
+	terrain="jungle"
+	culture="snakefolk_13"
+	religion="the_old_pantheon"
+	trade_goods="silk"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5587={ #PROV5587
+	terrain="coastal_island_terrain"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="fish"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="city"
+	tribesmen={
+		amount=12
+	}
+}
+
+5588={ #PROV5588
+	terrain="jungle"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="wild_game"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5589={ #PROV5589
+	terrain="coastal_island_terrain"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="fur"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5590={ #PROV5590
+	terrain="coastal_island_terrain"
+	culture="snakefolk_12"
+	religion="ancestral_beliefs"
+	trade_goods="hemp"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5591={ #PROV5591
+	terrain="coastal_island_terrain"
+	culture="snakefolk_11"
+	religion="the_old_pantheon"
+	trade_goods="stone"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5592={ #PROV5592
+	terrain="coastal_island_terrain"
+	culture="snakefolk_11"
+	religion="ancestral_beliefs"
+	trade_goods="spices"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5593={ #PROV5593
+	terrain="coastal_island_terrain"
+	culture="snakefolk_11"
+	religion="ancestral_beliefs"
+	trade_goods="wine"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5594={ #PROV5594
+	terrain="jungle"
+	culture="snakefolk_11"
+	religion="the_old_pantheon"
+	trade_goods="wood"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5595={ #PROV5595
+	terrain="jungle"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="silk"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5596={ #PROV5596
+	terrain="coastal_island_terrain"
+	culture="snakefolk_11"
+	religion="victory_pantheon"
+	trade_goods="salt"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5597={ #PROV5597
+	terrain="coastal_island_terrain"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="amber"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5598={ #PROV5598
+	terrain="coastal_island_terrain"
+	culture="snakefolk_12"
+	religion="the_old_pantheon"
+	trade_goods="honey"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+5652={ #PROV5652
+	terrain="coastal_island_terrain"
+	culture="snakefolk_15"
+	religion="the_old_pantheon"
+	trade_goods="spices"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+

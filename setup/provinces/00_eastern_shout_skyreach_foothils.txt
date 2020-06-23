@@ -613,7 +613,7 @@
 	terrain="steppes"
 	culture="hazalars_1"
 	religion="yedidyhan"
-	trade_goods="iron"
+	trade_goods="silk"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="city"

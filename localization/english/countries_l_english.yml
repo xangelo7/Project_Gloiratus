@@ -604,6 +604,7 @@
  AE8:0 "Shirakavan" 
  AE9:0 "Zedea" 
  AEA:0 "Geghakhorrik" 
+ AEB:0 "Ghaghaeylas"  
  HA0:0 "Kaseeru"  
  HA1:0 "Butukuru"
  HA2:0 "Kyaziza"
@@ -740,11 +741,33 @@
  ST3:0 "Kurbatovo"
  ST4:0 "Kuznetsovo"  
  
+#snake folk island
+ UPJ:0 "Euryalean League"
+ UPJ_ADJ:0 "Euryalean"  
  
  
- 
- 
- 
+#Austroeptelonian islandanders
+ UP0:0 "Khaironeia" 
+ UP1:0 "Eleusis" 
+ UP2:0 "Kaseno" 
+ UP3:0 "Lapathia" 
+ UP4:0 "Oinoi"  
+ UP5:0 "Pednelissos"  
+ UP6:0 "Lepreo"
+ UP7:0 "Tegea"
+ UP8:0 "Pavlopetri"
+ UP9:0 "Tegea"
+ UPA:0 "Hypsos"
+ UPB:0 "Lavrion" 
+ UPC:0 "Megara" 
+ UPD:0 "Korinthos" 
+ UPE:0 "Mezana"  
+ UPF:0 "Gythion"
+ UPG:0 "Dikastika"  
+ UPH:0 "Kymi" 
+ UPI:0 "Mykonos"
+ UPK:0 "Korfos"
+  
  
  
  
