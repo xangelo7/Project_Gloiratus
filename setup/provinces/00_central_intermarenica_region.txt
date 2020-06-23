@@ -391,7 +391,7 @@
 }
 
 2839={ #Ka-llü
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_1"
 	religion="helluvian"
 	trade_goods="earthware"
@@ -432,7 +432,7 @@
 }
 
 2865={ #Ddu-püipu
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_1"
 	religion="helluvian"
 	trade_goods="fish"

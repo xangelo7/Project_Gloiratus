@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="celtican_4"
 	religion="celtican_pantheon"
-	trade_goods="iron"
+	trade_goods="amber"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"

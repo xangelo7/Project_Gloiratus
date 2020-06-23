@@ -305,7 +305,7 @@
 	terrain="steppes"
 	culture="hazalars_2"
 	religion="yedidyhan"
-	trade_goods="steppe_horses"
+	trade_goods="silk"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"

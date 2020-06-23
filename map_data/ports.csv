@@ -76,7 +76,6 @@ LandProvince;SeaZone;x;y;
 1033;1028;1860;2684; #Eptelon island
 869;920;1981;2752;   #Eptelon island
 611;501;1947;2912;   #Eptelon island
-428;341;1920;3085;   #Eptelon island
 653;399;1753;2903;   #Eptelon island
 845;703;1688;2756;   #Eptelon island
 105;56;1204;3512;    #Horteon
@@ -180,15 +179,30 @@ LandProvince;SeaZone;x;y;
 1714;1725;1208;2231; #bloody islands
 1761;1729;1351;2218; #bloody islands
 2878;2681;1541;1806; #bloody islands
-
 898;955;1944;2740; #Eptelon Island
 1121;1148;1787;2640; #Eptelon Island
-1046;703;1659;2681; #Eptelon Island
 986;703;1666;2712; #Eptelon Island
 482;501;1936;2995; #Eptelon Island
 470;399;1833;3029; #Eptelon Island
+5551;658;2008;2854; #Austropetolian
+5652;658;2053;2749; #Austropetolian
+5581;920;2066;2671; #Austropetolian
+5574;955;1978;2659; #Austropetolian
+5570;1028;1917;2606; #Austropetolian
+5567;1128;1879;2533; #Austropetolian
+5571;1222;1969;2519; #Austropetolian
 
 
+2672;5681;2339;1865; #Baetep river
+2791;5674;2285;1807; #Baetep river
+2805;5677;2363;1806; #Baetep river
+2986;5683;2420;1775; #Baetep river
+3245;5685;2435;1682; #Baetep river
+3388;5687;2351;1639; #Baetep river
+3412;5688;2387;1622; #Baetep river
+3529;5689;2429;1602; #Baetep river
+3735;5672;2424;1551; #Baetep river
+2693;5680;2262;1860; #Baetep river
 -1;-1;-1;-1;
 
 

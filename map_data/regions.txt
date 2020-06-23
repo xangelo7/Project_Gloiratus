@@ -155,7 +155,7 @@ arteon_western_area_4
 }
 eptelon_north_region = {
 areas = {
-eptelon_north_area_1
+
 eptelon_north_area_2
 eptelon_north_area_3
 eptelon_north_area_4
@@ -803,6 +803,58 @@ vast_great_stepes_3
 vast_great_stepes_1
 vast_great_stepes_4
 zainddian_eteradica_area_6
+}
+}
+
+austropetolian_isle = {
+areas = {
+austropetolian_isle_1
+austropetolian_isle_2
+austropetolian_isle_3
+austropetolian_isle_wastedland
+austropetolian_isle_4
+austropetolian_isle_5
+austropetolian_isle_6
+}
+}
+
+austropetolian_peninsula = {
+areas = {
+austropetolian_peninsula_1
+austropetolian_peninsula_2
+
+}
+}
+
+austropetolian_archipelago = {
+areas = {
+austropetolian_archipelago_1
+austropetolian_archipelago_2
+austropetolian_archipelago_wastedland_1
+austropetolian_archipelago_3
+austropetolian_archipelago_4
+austropetolian_archipelago_5
+austropetolian_archipelago_6
+austropetolian_archipelago_7
+austropetolian_archipelago_8
+austropetolian_archipelago_9
+
+}
+}
+
+austropetolian_horteon = {
+areas = {
+austropetolian_horteon_1
+austropetolian_horteon_2
+eptelon_north_area_1
+
+}
+}
+
+baetep_great_river = {
+areas = {
+baetep_river
+
 }
 }
 

@@ -15,7 +15,7 @@
 }
 
 762={ #Adise Adi
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="heptelonians"
 	religion="artheous_pantheon"
 	trade_goods="grain"
@@ -50,7 +50,7 @@
 }
 
 764={ #Namaphaili
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_4"
 	religion="ancestral_beliefs"
 	trade_goods="grain"
@@ -124,8 +124,8 @@
 }
 
 819={ #Gorams
-	terrain="plains"
-	culture="eptelonian_1"
+	terrain="coastal_island_terrain"
+	culture="heptelonians"
 	religion="artheous_pantheon"
 	trade_goods="wood"
 	civilization_value=10
@@ -169,7 +169,7 @@
 }
 
 825={ #Menfedze
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_3"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -183,7 +183,7 @@
 
 828={ #Guaguat
 	terrain="marsh"
-	culture="eptelonian_1"
+	culture="heptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -196,7 +196,7 @@
 
 841={ #Derdeili
 	terrain="plains"
-	culture="eptelonian_1"
+	culture="heptelonians"
 	religion="artheous_pantheon"
 	trade_goods="leather"
 	civilization_value=10
@@ -230,7 +230,7 @@
 }
 
 845={ #Setafes
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_1"
 	religion="artheous_pantheon"
 	trade_goods="cloth"
@@ -290,7 +290,7 @@
 }
 
 869={ #Derars
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_3"
 	religion="ancestral_beliefs"
 	trade_goods="spices"
@@ -355,7 +355,7 @@
 }
 
 898={ #Nahadze
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_3"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -393,7 +393,7 @@
 }
 
 925={ #Tamarums
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_3"
 	religion="ancestral_beliefs"
 	trade_goods="wood"
@@ -406,7 +406,7 @@
 }
 
 930={ #Nataili
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_1"
 	religion="ancestral_beliefs"
 	trade_goods="cattle"
@@ -432,7 +432,7 @@
 }
 
 954={ #Natafises
-	terrain="jungle"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_3"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -497,7 +497,7 @@
 }
 
 986={ #Hamens
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eptelonian_1"
 	religion="ancestral_beliefs"
 	trade_goods="vegetables"
@@ -549,7 +549,7 @@
 }
 
 1033={ #Gonaramshv
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="aeptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="vegetables"
@@ -701,7 +701,7 @@
 }
 
 1089={ #Havirsieshv
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="aeptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -714,7 +714,7 @@
 }
 
 1097={ #Phagonphas
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="aeptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="spices"
@@ -758,7 +758,7 @@
 }
 
 1108={ #Goramshv
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="aeptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -777,7 +777,7 @@
 }
 
 1121={ #Mendeshv
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="aeptelonians"
 	religion="ancestral_beliefs"
 	trade_goods="grain"

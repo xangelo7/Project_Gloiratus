@@ -758,6 +758,19 @@
 	}
 }
 
+3388={ #Biihai
+	terrain="farmland"
+	culture="beatepian_lower_1"
+	religion="beatepian_pantheon"
+	trade_goods="dates"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="city"
+	serfs={
+		amount=30
+	}
+}
+
 3412={ #Seven
 	terrain="farmland"
 	culture="beatepian_lower_1"
@@ -802,22 +815,66 @@
 	}
 }
 
-3419={ #Ahris
-	terrain="plains"
-	culture="beatepian_upper_1"
+3480={ #Sisay
+	terrain="marsh"
+	culture="beatepian_lower_1"
 	religion="beatepian_pantheon"
-	trade_goods="glass"
+	trade_goods="cloth"
 	civilization_value=35
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
 	freemen={
-		amount=3
+		amount=2
 	}
 	serfs={
-		amount=20
+		amount=3
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3505={ #Mungo
+	terrain="marsh"
+	culture="beatepian_lower_1"
+	religion="beatepian_pantheon"
+	trade_goods="woad"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=3
+	}
+	tnoble={
+		amount=1
+	}
+}
+
+3522={ #Abbad
+	terrain="plains"
+	culture="beatepian_lower_1"
+	religion="beatepian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	serfs={
+		amount=7
 	}
 	tnoble={
 		amount=1

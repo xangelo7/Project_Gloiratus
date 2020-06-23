@@ -87,7 +87,8 @@
 		eptelonian_4 = {}	
 		eptelonian_5 = {}
 		eptelonian_6 = {}	
-		eptelonian_7 = {}		
+		eptelonian_7 = {}	
+		eptelonian_8 = {}		
 	}
 	barbarian_names = {}
 	

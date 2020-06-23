@@ -506,7 +506,7 @@
 }
 
 1049={ #Aeldescyhil
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="high_elven_1"
 	religion="artheous_pantheon"
 	trade_goods="grain"
@@ -856,7 +856,7 @@
 }
 
 1156={ #Amrumlassie
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="arteonian_1"
 	religion="artheous_pantheon"
 	trade_goods="grain"
@@ -878,7 +878,7 @@
 }
 
 1157={ #Ncaathousd'édes
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="high_elven_1"
 	religion="transcendence_enlighten"
 	trade_goods="cloth"
@@ -1024,7 +1024,7 @@
 }
 
 1219={ #Athlateùd
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="high_elven_1"
 	religion="transcendence_enlighten"
 	trade_goods="fish"

@@ -1,5 +1,5 @@
 ﻿3851={ #Akutain
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="esquelian_1"
 	religion="helluvian"
 	trade_goods="cloth"

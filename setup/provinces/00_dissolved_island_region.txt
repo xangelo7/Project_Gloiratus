@@ -99,7 +99,7 @@
 }
 
 1491={ #PROV1491
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="disolved_remains"
 	religion="ancestral_beliefs"
 	trade_goods="wood"
@@ -139,7 +139,7 @@
 }
 
 1526={ #PROV1526
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="disolved_remains"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -149,7 +149,7 @@
 }
 
 1531={ #PROV1531
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="disolved_remains"
 	religion="ancestral_beliefs"
 	trade_goods="fish"
@@ -162,7 +162,7 @@
 }
 
 1549={ #PROV1549
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="disolved_remains"
 	religion="ancestral_beliefs"
 	trade_goods="grain"

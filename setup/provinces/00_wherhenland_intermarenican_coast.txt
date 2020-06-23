@@ -292,7 +292,7 @@
 }
 
 2110={ #Agwemanyi
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"
@@ -339,7 +339,7 @@
 }
 
 2134={ #Yahhyarozewg
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="grain"
@@ -527,7 +527,7 @@
 }
 
 2175={ #Zewggādmeza
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="yedidyhan"
 	trade_goods="incense"
@@ -750,7 +750,7 @@
 }
 
 2224={ #Küi-ttüirpü
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="wood"
@@ -929,7 +929,7 @@
 }
 
 2325={ #D'-pül
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"
@@ -967,7 +967,7 @@
 }
 
 2366={ #Küi-shumö
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"
@@ -983,7 +983,7 @@
 }
 
 2389={ #Küi-thuöpu
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="ancestral_beliefs"
 	trade_goods="woad"
@@ -1005,7 +1005,7 @@
 }
 
 2496={ #Dda-nnüilë
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"
@@ -1021,7 +1021,7 @@
 }
 
 2520={ #Traya
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"
@@ -1046,7 +1046,7 @@
 }
 
 2548={ #Mazos
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="wood"
@@ -1071,7 +1071,7 @@
 }
 
 2554={ #D'-shürrmü 
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="intermarenican_6"
 	religion="helluvian"
 	trade_goods="fish"

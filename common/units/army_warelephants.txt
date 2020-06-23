@@ -1,14 +1,12 @@
 ﻿warelephant = {
 	army = yes
 
-	allow = {
-		trade_good_surplus = { target = elephants value > 0 }
-	}
+	enable = yes	
 
 	
-	maneuver = 1
+	maneuver = 1.5
 	
-	movement_speed = 2
+	movement_speed = 2.5
 	build_time = 365
 	
 	light_infantry = 1.5

@@ -20,6 +20,28 @@
 	}
 }
 
+3419={ #Ahris
+	terrain="plains"
+	culture="beatepian_upper_1"
+	religion="beatepian_pantheon"
+	trade_goods="glass"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	serfs={
+		amount=20
+	}
+	tnoble={
+		amount=1
+	}
+}
+
 3428={ #Seba
 	terrain="desert"
 	culture="beatepian_upper_1"
@@ -130,50 +152,6 @@
 	}
 	tnoble={
 		amount=2
-	}
-}
-
-3505={ #Mungo
-	terrain="marsh"
-	culture="beatepian_lower_1"
-	religion="beatepian_pantheon"
-	trade_goods="woad"
-	civilization_value=35
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	serfs={
-		amount=3
-	}
-	tnoble={
-		amount=1
-	}
-}
-
-3522={ #Abbad
-	terrain="plains"
-	culture="beatepian_lower_1"
-	religion="beatepian_pantheon"
-	trade_goods="wild_game"
-	civilization_value=35
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	serfs={
-		amount=7
-	}
-	tnoble={
-		amount=1
 	}
 }
 

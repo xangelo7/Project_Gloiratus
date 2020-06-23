@@ -986,7 +986,7 @@
 }
 
 960={ #Hu Oman
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="arteonian_2"
 	religion="artheous_pantheon"
 	trade_goods="cloth"

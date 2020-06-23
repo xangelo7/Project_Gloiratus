@@ -21,7 +21,7 @@
 }
 
 2444={ #Razenrzüm
-	terrain="farmland"
+	terrain="coastal_island_terrain"
 	culture="eagelian"
 	religion="the_first_emperor"
 	trade_goods="olive"
@@ -64,7 +64,7 @@
 	citizen={
 		culture="beatepian_lower_2"
 		religion="helluvian"
-		amount=3
+		amount=15
 	}
 	freemen={
 		amount=11
@@ -84,7 +84,7 @@
 }
 
 2495={ #Panrëdün
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eagelian"
 	religion="the_first_emperor"
 	trade_goods="fish"
@@ -128,7 +128,7 @@
 }
 
 2515={ #Surëzënn
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="eagelian"
 	religion="the_first_emperor"
 	trade_goods="salt"
@@ -216,7 +216,7 @@
 }
 
 2547={ #Tamrat
-	terrain="plains"
+	terrain="coastal_island_terrain"
 	culture="beatepian_lower_2"
 	religion="helluvian"
 	trade_goods="fish"
