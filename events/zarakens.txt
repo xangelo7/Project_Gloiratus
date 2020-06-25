@@ -1,0 +1,354 @@
+namespace = zaraken
+
+zaraken.1 = {
+    type = country_event
+    title = zaraken.1.t
+    desc = zaraken.1.desc
+    picture = greek_city_market
+    
+    left_portrait = current_ruler
+
+    trigger = {}
+
+    immediate = {
+    }
+
+    option = {      
+        name = zaraken.1.a
+		custom_tooltip = zaraken.1.a.tt
+        hidden_effect = {
+			p:4929 = {
+				remove_building_level = fortress_building
+			}
+			p:4904 = {
+				remove_building_level = fortress_building
+			}
+			p:4937 = {
+				remove_building_level = fortress_building
+			}
+			p:4884 = {
+				remove_building_level = fortress_building
+			}
+			p:4915 = {
+				remove_building_level = fortress_building
+			}
+			p:4794 = {
+				remove_building_level = fortress_building
+			}
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_area = vast_great_stepes_4
+						is_in_area = vast_great_stepes_3
+					}
+					NOT = { 
+						province_id = 4761
+						province_id = 4760
+						province_id = 4704
+						province_id = 4666
+						province_id = 4575
+						province_id = 4619
+					}
+				}
+				set_owned_by = ZK3
+			}
+			scope:ZK3 = {
+				add_country_modifier = {
+					name = zaraken_march_modifier
+					duration = -1
+				}
+			}			
+    	}
+	}
+}
+
+zaraken.2 = {
+    type = country_event
+    title = zaraken.2.t
+    desc = zaraken.2.desc
+    picture = greek_city_market
+    
+    left_portrait = current_ruler
+
+    trigger = {}
+
+    immediate = {
+    }
+
+    option = {      
+		name = zaraken.2.a
+		c:ZAR = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = 4662
+				target = ZAK
+			}
+		}
+		c:ZK1 = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = 4662
+				target = ZAK
+			}
+		}
+		c:ZK2 = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = 4662
+				target = ZAK
+			}
+		}	
+	}
+}
+
+zaraken.3 = {
+	type = country_event
+	title = zaraken.3.t
+	desc = zaraken.3.desc
+	picture = greek_city_market
+	
+	left_portrait = current_ruler
+
+	trigger = {}
+
+	immediate = {
+		p:4588 = {
+			save_scope_as = jarenam_capital_scope
+		}
+	}
+
+	option = {      
+		name = zaraken.3.a #Staying at home
+		hidden_effect = {
+			scope:jarenam_capital_scope = {
+				create_country = {
+					name = {
+						name = "JARENAM_NAME"
+						adjective = "JARENAM_ADJECTIVE"
+					}
+					save_scope_as = jarenam_scope
+					change_country_tag = JR9
+					change_country_flag = JR9_FLAG 
+					change_country_color = navy_blue
+					set_primary_culture = zaraken_1
+					set_country_religion = zainuddian
+					change_government = aristocratic_monarchy
+					add_treasury = 50
+				}
+			}
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_area = shout_eteradica_area_1
+						is_in_area = shout_eteradica_area_2
+						is_in_area = shout_eteradica_area_4
+						is_in_area = shout_eteradica_area_3
+					}
+				}
+				set_owned_by = scope:jarenam_scope
+			}
+			if = {
+				limit = {
+					NOT = { is_subject_of = root }
+				}
+				make_subject = { # Make Colony
+					target = scope:jarenam_scope
+					type = princedom_vassal
+				}
+			}
+		}
+	}
+}
+
+zaraken.4 = {
+	type = country_event
+	title = zaraken.4.t
+	desc = zaraken.4.desc
+	picture = greek_city_market
+	
+	left_portrait = current_ruler
+
+	trigger = {}
+
+	immediate = {
+		p:4542 = {
+			save_scope_as = bhax_capital_scope
+		}
+	}
+
+	option = {      
+		name = zaraken.4.a #Staying at home
+		hidden_effect = {
+			scope:bhax_capital_scope = {
+				create_country = {
+					name = {
+						name = "BHAX_NAME"
+						adjective = "BHAX_ADJECTIVE"
+					}
+					save_scope_as = bhax_scope
+					change_country_tag = BRX
+					change_country_flag = BRX_FLAG 
+					change_country_color = navy_blue
+					set_primary_culture = zaraken_1
+					set_country_religion = zainuddian
+					change_government = aristocratic_monarchy
+					add_treasury = 50
+				}
+			}
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_area = the_iron_foothill_3
+						is_in_area = the_iron_foothill_2
+						is_in_area = shout_eteradica_area_6
+					}
+				}
+				set_owned_by = scope:bhax_scope
+			}
+			if = {
+				limit = {
+					NOT = { is_subject_of = root }
+				}
+				make_subject = { # Make Colony
+					target = scope:bhax_scope
+					type = princedom_vassal
+				}
+			}
+		}
+	}
+}
+
+zaraken.5 = {
+	type = country_event
+	title = zaraken.5.t
+	desc = zaraken.5.desc
+	picture = greek_city_market
+	
+	left_portrait = current_ruler
+
+	trigger = {}
+
+	immediate = {
+	}
+
+	option = {      
+		name = zaraken.5.a #Staying at home
+		every_subject = {
+			limit = {
+				owns = 4588
+			}
+			every_province = {
+				limit = {		
+					AND = {
+						AND = {
+							NOT = {
+								province_id = 3331
+								province_id = 3435
+							}
+							OR = {
+								is_in_area = shout_eteradica_area_3
+								is_in_area = north_eteradica_area_4
+								is_in_area = north_eteradica_area_5
+								is_in_area = north_eteradica_area_1
+							}
+						}
+						owned_or_subject_owned = root
+					}
+				}
+				set_owned_by = prev
+			}
+		}
+	}
+}
+
+zaraken.6 = {
+	type = country_event
+	title = zaraken.6.t
+	desc = zaraken.6.desc
+	picture = greek_city_market
+	
+	left_portrait = current_ruler
+
+	trigger = {}
+
+	immediate = {
+	}
+
+	option = {      
+		name = zaraken.6.a #Staying at home
+		every_subject = {
+			limit = {
+				owns = 4416
+			}
+			every_province = {
+				limit = {
+					AND = {
+						OR = {
+							is_in_area = shout_eteradica_area_5
+							is_in_area = shout_eteradica_area_6
+							province_id = 3358
+							province_id = 3363
+							province_id = 3299
+							province_id = 3295
+							province_id = 3244
+							is_in_area = north_eteradica_area_3 
+							is_in_area = north_eteradica_area_2 
+							is_in_area = the_iron_foothill_1
+							is_in_area = golden_hills_area_3 
+						}
+						owned_or_subject_owned = root
+					}
+				}
+				set_owned_by = prev
+			}
+		}
+	}
+}
+
+zaraken.7 = {
+	type = country_event
+	title = zaraken.7.t
+	desc = zaraken.7.desc
+	picture = greek_city_market
+	
+	left_portrait = current_ruler
+
+	trigger = {}
+
+	immediate = {
+	}
+
+	option = {      
+		name = zaraken.7.a #Staying at home
+		every_province = {
+			limit = {
+				AND = {
+					NOT = {
+						province_id = 3331
+						province_id = 3435
+					}
+					OR = {
+						is_in_area = shout_eteradica_area_5
+						is_in_area = shout_eteradica_area_4
+						province_id = 3358
+						province_id = 3363
+						province_id = 3299
+						province_id = 3295
+						province_id = 3244
+						is_in_area = north_eteradica_area_3 
+						is_in_area = north_eteradica_area_2 
+						is_in_area = shout_eteradica_area_6
+						is_in_area = the_iron_foothill_1
+						is_in_area = the_iron_foothill_3
+						is_in_area = golden_hills_area_3 
+						is_in_area = north_eteradica_area_4
+						is_in_area = north_eteradica_area_5
+						is_in_area = north_eteradica_area_1
+						
+					}
+				}			
+			}
+			set_owned_by = ROOT
+		}
+	}
+}
