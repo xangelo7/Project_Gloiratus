@@ -52,6 +52,15 @@ zaraken.1 = {
 				}
 				set_owned_by = ZK3
 			}
+			if = {
+				limit = {
+					NOT = { is_subject_of = root }
+				}
+				make_subject = { # Make Colony
+					target = scope:ZK3
+					type = princedom_vassal
+				}
+			}
 			scope:ZK3 = {
 				add_country_modifier = {
 					name = zaraken_march_modifier
