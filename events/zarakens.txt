@@ -127,7 +127,7 @@ zaraken.3 = {
 	}
 
 	option = {      
-		name = zaraken.3.a #Staying at home
+		name = zaraken.3.a
 		hidden_effect = {
 			scope:jarenam_capital_scope = {
 				create_country = {
@@ -143,6 +143,10 @@ zaraken.3 = {
 					set_country_religion = zainuddian
 					change_government = aristocratic_monarchy
 					add_treasury = 50
+					add_country_modifier = {
+						name = zaraken_march_modifier
+						duration = -1
+					}
 				}
 			}
 			every_owned_province = {
@@ -186,7 +190,7 @@ zaraken.4 = {
 	}
 
 	option = {      
-		name = zaraken.4.a #Staying at home
+		name = zaraken.4.a
 		hidden_effect = {
 			scope:bhax_capital_scope = {
 				create_country = {
@@ -202,6 +206,10 @@ zaraken.4 = {
 					set_country_religion = zainuddian
 					change_government = aristocratic_monarchy
 					add_treasury = 50
+					add_country_modifier = {
+						name = zaraken_march_modifier
+						duration = -1
+					}
 				}
 			}
 			every_owned_province = {
@@ -241,32 +249,34 @@ zaraken.5 = {
 	}
 
 	option = {      
-		name = zaraken.5.a #Staying at home
-		every_subject = {
-			limit = {
-				owns = 4588
-			}
-			every_province = {
-				limit = {		
-					AND = {
-						AND = {
-							NOT = {
-								province_id = 3331
-								province_id = 3435
-							}
-							OR = {
-								is_in_area = shout_eteradica_area_3
-								is_in_area = north_eteradica_area_4
-								is_in_area = north_eteradica_area_5
-								is_in_area = north_eteradica_area_1
-							}
-						}
-						owned_or_subject_owned = root
-					}
+		name = zaraken.5.a
+		hidden_effect = {
+			every_subject = {
+				limit = {
+					owns = 4588
 				}
-				set_owned_by = prev
+				every_province = {
+					limit = {		
+						AND = {
+							AND = {
+								NOT = {
+									province_id = 3331
+									province_id = 3435
+								}
+								OR = {
+									is_in_area = shout_eteradica_area_3
+									is_in_area = north_eteradica_area_4
+									is_in_area = north_eteradica_area_5
+									is_in_area = north_eteradica_area_1
+								}
+							}
+							owned_or_subject_owned = root
+						}
+					}
+					set_owned_by = prev
+				}
 			}
-		}
+		}		
 	}
 }
 
@@ -284,33 +294,35 @@ zaraken.6 = {
 	}
 
 	option = {      
-		name = zaraken.6.a #Staying at home
-		every_subject = {
-			limit = {
-				owns = 4416
-			}
-			every_province = {
+		name = zaraken.6.a
+		hidden_effect = {
+			every_subject = {
 				limit = {
-					AND = {
-						OR = {
-							is_in_area = shout_eteradica_area_5
-							is_in_area = shout_eteradica_area_6
-							province_id = 3358
-							province_id = 3363
-							province_id = 3299
-							province_id = 3295
-							province_id = 3244
-							is_in_area = north_eteradica_area_3 
-							is_in_area = north_eteradica_area_2 
-							is_in_area = the_iron_foothill_1
-							is_in_area = golden_hills_area_3 
-						}
-						owned_or_subject_owned = root
-					}
+					owns = 4416
 				}
-				set_owned_by = prev
+				every_province = {
+					limit = {
+						AND = {
+							OR = {
+								is_in_area = shout_eteradica_area_5
+								is_in_area = shout_eteradica_area_6
+								province_id = 3358
+								province_id = 3363
+								province_id = 3299
+								province_id = 3295
+								province_id = 3244
+								is_in_area = north_eteradica_area_3 
+								is_in_area = north_eteradica_area_2 
+								is_in_area = the_iron_foothill_1
+								is_in_area = golden_hills_area_3 
+							}
+							owned_or_subject_owned = root
+						}
+					}
+					set_owned_by = prev
+				}
 			}
-		}
+		}	
 	}
 }
 
@@ -328,36 +340,38 @@ zaraken.7 = {
 	}
 
 	option = {      
-		name = zaraken.7.a #Staying at home
-		every_province = {
-			limit = {
-				AND = {
-					NOT = {
-						province_id = 3331
-						province_id = 3435
-					}
-					OR = {
-						is_in_area = shout_eteradica_area_5
-						is_in_area = shout_eteradica_area_4
-						province_id = 3358
-						province_id = 3363
-						province_id = 3299
-						province_id = 3295
-						province_id = 3244
-						is_in_area = north_eteradica_area_3 
-						is_in_area = north_eteradica_area_2 
-						is_in_area = shout_eteradica_area_6
-						is_in_area = the_iron_foothill_1
-						is_in_area = the_iron_foothill_3
-						is_in_area = golden_hills_area_3 
-						is_in_area = north_eteradica_area_4
-						is_in_area = north_eteradica_area_5
-						is_in_area = north_eteradica_area_1
-						
-					}
-				}			
+		name = zaraken.7.a
+		hidden_effect = {
+			every_province = {
+				limit = {
+					AND = {
+						NOT = {
+							province_id = 3331
+							province_id = 3435
+						}
+						OR = {
+							is_in_area = shout_eteradica_area_5
+							is_in_area = shout_eteradica_area_4
+							province_id = 3358
+							province_id = 3363
+							province_id = 3299
+							province_id = 3295
+							province_id = 3244
+							is_in_area = north_eteradica_area_3 
+							is_in_area = north_eteradica_area_2 
+							is_in_area = shout_eteradica_area_6
+							is_in_area = the_iron_foothill_1
+							is_in_area = the_iron_foothill_3
+							is_in_area = golden_hills_area_3 
+							is_in_area = north_eteradica_area_4
+							is_in_area = north_eteradica_area_5
+							is_in_area = north_eteradica_area_1
+							
+						}
+					}			
+				}
+				set_owned_by = ROOT
 			}
-			set_owned_by = ROOT
 		}
 	}
 }
