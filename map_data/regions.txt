@@ -369,6 +369,7 @@ shout_eteradica_area_1
 shout_eteradica_area_2
 shout_eteradica_area_4
 shout_eteradica_area_6
+shout_eteradica_wastelands_1
 }
 }
 central_eteradica = {
@@ -394,6 +395,7 @@ the_iron_foothill_2
 the_iron_foothill_3
 the_iron_foothill_4
 the_iron_foothill_5
+the_iron_foothill_mountains
 }
 }
 zainddian_western_eteradica = {
@@ -438,7 +440,7 @@ golden_hills_area_1
 upper_beatep_area_6
 }
 }
-upper_beatep_east = {
+upper_beatep_west = {
 areas = {
 upper_beatep_area_1
 upper_beatep_area_4

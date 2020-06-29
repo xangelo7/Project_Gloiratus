@@ -736,4 +736,18 @@ ROH_FLAG = {
 		texture = "Kingdom_rohenoa.png"
 	}
 }
+BLR_FLAG = {
+    color1 = rgb { 213 164 78 }
+    color2 = rgb { 85 119 148 }
+    textured_emblem = {
+        texture = "Barlaria.png"
+    }
+}
+BRN_FLAG = {
+    color1 = rgb { 85 119 148 }
+    color2 = rgb { 245 206 111 }
+    textured_emblem = {
+        texture = "Barlaria_nova.png"
+    }
+}
 
