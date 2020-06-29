@@ -15,6 +15,12 @@ zaraken_great_campaign_modifier = {
 	manpower_recovery_speed = 0.15
 }
 
+zaraken_fortification_modifier = {
+	local_defensive = 0.15
+	local_hostile_attrition = 1
+	local_building_slot = 1
+}
+
 zaraken_pacification_modifier = {
 	local_unrest = -8
 	local_pop_assimilation_speed_modifier = -0.35

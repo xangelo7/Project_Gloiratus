@@ -1,11 +1,8 @@
 ﻿l_english:
-<<<<<<< HEAD
  zaraken_conquest:0 "Become an empire"
  zaraken_conquest_DESCRIPTION:0 "The Zarakens have suffered long enough under foreign rule. It is time for us to rise from the ashes and conquer the known world!"
  zaraken_conquest_CRITERIA_DESCRIPTION:0 "This mission will be considered complete once our nation has become the local hegemon."
  zaraken_conquest_BUTTON_TOOLTIP:0 "Spread our empire far and wide!"
-=======
->>>>>>> 9f8b5661a530b58f0aa09de2ed1c64c66b7520bb
  zaraken_conquest_preparation:0 "Institute army reform"
  zaraken_conquest_homeland:0 "Liberate Zakara"
  zaraken_conquest_pacify:0 "Begin the Great Campaign"
@@ -13,6 +10,8 @@
  zaraken_conquest_west_1:0 "Autonomy for the Thamudi"
  zaraken_conquest_west_2:0 "Autonomy for the Mekians"
  zaraken_conquest_capital:0 "Institute Imperial Reform"
+ zaraken_fortify_pednben:0 "Fortify Pednben passage"
+ zaraken_fortify_eptegh:0 "Protect the capital"
  zaraken_conquest_west_3:0 "Utilise the Iron Dessert"
  zaraken_conquest_west_4:0 "Create the Jarenam Kingdom"
  zaraken_conquest_west_5:0 "Pacify the Coast"
@@ -27,6 +26,7 @@
 
  zaraken_army_modifier:0 "Aggressive army tactics"
  zaraken_great_campaign_modifier:0 "The great campaign"
+ zaraken_fortification_modifier:0 "Fortified passage"
  zaraken_pacification_modifier:0 "Local autonomy"
  zaraken_march_modifier:0 "Border march"
  zaraken_capital_modifier:0 "A new capitol"
@@ -72,3 +72,8 @@
  zaraken.7.t:0 "Institute royal rule"
  zaraken.7.desc:0 "With our conquests now complete and the empire stable, the emperor has demanded that the princes give back all lands they where pacifying. All princes complied ofcourse since none would dare oppose the Emperor!"
  zaraken.7.a:0 "The empire is now complete!"
+
+ JARENAM_NAME:0 "Jarenam Kingdom"
+ JARENAM_ADJECTIVE:0 "Jarenami"
+ BHAX_NAME:0 "Gunextnut"
+ BHAX_ADJECTIVE:0 "Gunextnutian"

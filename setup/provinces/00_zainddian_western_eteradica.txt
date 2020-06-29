@@ -65,7 +65,7 @@
 }
 
 4643={ #Šatadmen
-	terrain="mountain"
+	terrain="hills"
 	culture="zinduidian_3"
 	religion="ancestral_beliefs"
 	trade_goods="cattle"
@@ -101,7 +101,7 @@
 }
 
 4665={ #Eptegəh
-	terrain="plains"
+	terrain="hills"
 	culture="zinduidian_3"
 	religion="ancestral_beliefs"
 	trade_goods="wood"

@@ -336,6 +336,75 @@
         }
 	}
 
+	zaraken_fortify_pednben = {
+        icon = "task_economical"
+
+        duration = 60
+
+        requires = { zaraken_conquest_capital }  
+
+        potential = {}
+		
+		highlight = {
+			scope:province = {
+				province_id = 4631
+			}
+		}
+
+        allow = {
+        	treasury >= 100
+			p:4631 = {
+				fort_level >= 1
+			}
+		} 
+
+
+        on_completion = { 
+        	add_treasury = -100
+        	p:4631 = {
+				add_province_modifier = {
+					name = zaraken_fortification_modifier
+					duration = -1
+				}
+			}	
+        }
+	}
+	
+	zaraken_fortify_eptegh = {
+        icon = "task_economical"
+
+        duration = 60
+
+        requires = { zaraken_conquest_capital }  
+
+        potential = {}
+		
+		highlight = {
+			scope:province = {
+				province_id = 4665
+			}
+		}
+
+        allow = {
+        	treasury >= 100
+			p:4665 = {
+				fort_level >= 1
+			}
+		} 
+
+
+        on_completion = { 
+        	add_treasury = -100
+        	p:4665 = {
+				add_province_modifier = {
+					name = zaraken_fortification_modifier
+					duration = -1
+				}
+			}	
+        }
+    }
+
+
 	zaraken_conquest_west_3 = {
         icon = "task_political"
 
@@ -388,20 +457,46 @@
 
         highlight = {
             scope:province = {
-				OR = {
-					is_in_area = shout_eteradica_area_1
-					is_in_area = shout_eteradica_area_2
-					is_in_area = shout_eteradica_area_4
-					province_id = 4665
-				}
+				AND = {
+					NOT = {
+						province_id = 4479
+						province_id = 4445
+						province_id = 4345
+					}
+					OR = {
+						is_in_area = shout_eteradica_area_1
+						is_in_area = shout_eteradica_area_2
+						province_id = 4665
+						province_id = 4696
+						province_id = 4708
+						province_id = 4701
+						province_id = 4617
+						province_id = 4629
+						province_id = 4628
+					}
+				}		
 			}
 		}
 
         allow = { 
             owns_or_subject_owns_area = shout_eteradica_area_1 
-			owns_or_subject_owns_area = shout_eteradica_area_2
-			owns_or_subject_owns_area = shout_eteradica_area_4
+			owns_or_subject_owns = 4696
+			owns_or_subject_owns = 4708
+			owns_or_subject_owns = 4701
+			owns_or_subject_owns = 4617
+			owns_or_subject_owns = 4629
+			owns_or_subject_owns = 4628
 			owns_or_subject_owns = 4665
+			owns_or_subject_owns = 4700
+			owns_or_subject_owns = 4695
+			owns_or_subject_owns = 4659
+			owns_or_subject_owns = 4642
+			owns_or_subject_owns = 4638
+			owns_or_subject_owns = 4572
+			owns_or_subject_owns = 4549
+			owns_or_subject_owns = 3621
+			owns_or_subject_owns = 4527
+			owns_or_subject_owns = 4453
         }
 
         on_completion = {
@@ -429,19 +524,25 @@
 					NOT = {
 						province_id = 3331
 						province_id = 3435
+						province_id = 4130
+						province_id = 4129
+						province_id = 4016
+						province_id = 3596
+						province_id = 4345
+						province_id = 3596
 					}
 					OR = {
 						is_in_area = shout_eteradica_area_3
 						is_in_area = north_eteradica_area_4
 						is_in_area = north_eteradica_area_5
 						is_in_area = north_eteradica_area_1
+						province_id = 4256
 					}
 				}		
 			}
 		}
 
         allow = { 
-            owns_or_subject_owns_area = shout_eteradica_area_3 
 			owns_or_subject_owns_area = north_eteradica_area_4
 			owns_or_subject_owns_area = north_eteradica_area_5
 			owns_or_subject_owns = 3453
@@ -453,6 +554,19 @@
 			owns_or_subject_owns = 3564
 			owns_or_subject_owns = 3764
 			owns_or_subject_owns = 3686
+			owns_or_subject_owns = 4256
+			owns_or_subject_owns = 4340
+			owns_or_subject_owns = 4261
+			owns_or_subject_owns = 4321
+			owns_or_subject_owns = 4226
+			owns_or_subject_owns = 4240
+			owns_or_subject_owns = 4180
+			owns_or_subject_owns = 4148
+			owns_or_subject_owns = 4149
+			owns_or_subject_owns = 4142
+			owns_or_subject_owns = 4141
+			owns_or_subject_owns = 4104
+			owns_or_subject_owns = 4033
         }
 
         on_completion = {
@@ -505,13 +619,31 @@
 
         highlight = {
             scope:province = {
-				OR = {
-					is_in_area = shout_eteradica_area_5
-					is_in_area = shout_eteradica_area_6
-					is_in_area = the_iron_foothill_1 
-					is_in_area = north_eteradica_area_3 
-					is_in_area = north_eteradica_area_2 
-				}
+				AND = {
+					NOT = {
+						province_id = 4696
+						province_id = 4708
+						province_id = 4701
+						province_id = 4617
+						province_id = 4629
+						province_id = 4628
+						province_id = 4256
+					}
+					OR = {
+						is_in_area = shout_eteradica_area_4
+						is_in_area = shout_eteradica_area_5
+						is_in_area = shout_eteradica_area_6
+						is_in_area = the_iron_foothill_1 
+						is_in_area = north_eteradica_area_3 
+						is_in_area = north_eteradica_area_2 
+						province_id = 4479
+						province_id = 4445
+						province_id = 4345
+						province_id = 4130
+						province_id = 4129
+						province_id = 4016
+					}
+				}			
 			}
 		}
 
