@@ -1,8 +1,11 @@
 ﻿l_english:
+<<<<<<< HEAD
  zaraken_conquest:0 "Become an empire"
  zaraken_conquest_DESCRIPTION:0 "The Zarakens have suffered long enough under foreign rule. It is time for us to rise from the ashes and conquer the known world!"
  zaraken_conquest_CRITERIA_DESCRIPTION:0 "This mission will be considered complete once our nation has become the local hegemon."
  zaraken_conquest_BUTTON_TOOLTIP:0 "Spread our empire far and wide!"
+=======
+>>>>>>> 9f8b5661a530b58f0aa09de2ed1c64c66b7520bb
  zaraken_conquest_preparation:0 "Institute army reform"
  zaraken_conquest_homeland:0 "Liberate Zakara"
  zaraken_conquest_pacify:0 "Begin the Great Campaign"

@@ -1304,7 +1304,7 @@ provinces = { 3986 3879 3711 3810 3735 3718 3751  3804 3909 3908 3975 3980 }
 }
 upper_beatep_area_4 = {
 
-provinces = { 3739 3659 3703 3727 3652 3535   }
+provinces = { 3727 3739 3659 3703  3652 3535 }
 
 }
 
@@ -2377,6 +2377,18 @@ provinces = { 5672 5673 5674 5675 5676 5677 5678 5679 5680 5681 5682 5683 5684 5
 
 }
 
+the_iron_foothill_mountains = {
+
+provinces = { 5691 5692  }
+
+}
+
+
+shout_eteradica_wastelands_1 = {
+
+provinces = { 5693 5694 5695 5696 5697 }
+
+}
 
 
 

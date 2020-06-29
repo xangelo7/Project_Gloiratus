@@ -1050,3 +1050,70 @@
 	}
 }
 
+
+
+5693={ #Wasted land
+	terrain=""
+	culture="zinduidian_4"
+	religion="zainuddian"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5694={ #Wasted land
+	terrain=""
+	culture="zinduidian_4"
+	religion="zainuddian"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5695={ #Wasted land
+	terrain=""
+	culture="zinduidian_4"
+	religion="zainuddian"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5696={ #Wasted land
+	terrain=""
+	culture="zinduidian_4"
+	religion="zainuddian"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5697={ #Wasted land
+	terrain=""
+	culture="zinduidian_4"
+	religion="zainuddian"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
